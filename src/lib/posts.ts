@@ -3804,11 +3804,6 @@ export const posts: Post[] = [
       {
         "t": "p",
         "v": "If you are interested in making a donation to the charity or sponsoring any of the participants please contact: Liam White on -07725705418, Sean Mc Kinney on -07715 983129 or Seamus O Neill on-07884 315110."
-      },
-      {
-        "t": "img",
-        "src": "http://www.armaghcityhotel.com/cmsGallery/listings/199/original/xarmagh_geddon_logo.png.pagespeed.ic.RBkXgCxO3j.png",
-        "alt": ""
       }
     ],
     "postedIn": [
@@ -4052,11 +4047,6 @@ export const posts: Post[] = [
       {
         "t": "p",
         "v": "A white collar boxing event will be held in The Arches Bar Mallow on the October bank holiday weekend in aid of Mallow Search and Rescue and Mallow swimming club. It will be a great night, we hope to see you all there. Training has started and it is going to be a great night"
-      },
-      {
-        "t": "img",
-        "src": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpa1/v/t1.0-1/c27.0.200.200/p200x200/10599399_675195129238201_6760928114080327391_n.jpg?oh=12cf6974265493482314757791cd175a&amp;oe=5488C348&amp;__gda__=1419116815_a738afa5df0655c53c51113c5298238e",
-        "alt": "Battle on the Banks White Collar Boxing Night"
       }
     ],
     "postedIn": [
@@ -4499,11 +4489,6 @@ export const posts: Post[] = [
       {
         "t": "p",
         "v": "Sign up today by contacting Cathal on +353 87 8526323 or email info@whitecollarboxing.org"
-      },
-      {
-        "t": "img",
-        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSuM0pMXRs108GmYwi1s4gxY8QhtWgQRcUaDDSZO1isccrdd2xQ",
-        "alt": ""
       }
     ],
     "postedIn": [

@@ -53,7 +53,7 @@ export default function Home() {
             </Link>
 
             <Link
-              href="/whitecollar-hq-fitness-gym"
+              href="/contact"
               className="group flex w-full flex-col items-center border border-white/60 bg-black/25 px-8 py-6 transition-colors hover:border-white hover:bg-black/40 sm:w-72"
             >
               <Image

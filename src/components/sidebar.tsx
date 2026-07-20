@@ -67,7 +67,7 @@ export function Sidebar() {
       <div>
         <WidgetTitle>Training and Fitness Gym</WidgetTitle>
         <Link
-          href="/whitecollar-hq-fitness-gym"
+          href="/contact"
           aria-label="White collar boxing training and fitness gym"
           className="block overflow-hidden"
           style={{
