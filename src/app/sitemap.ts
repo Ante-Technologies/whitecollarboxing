@@ -8,8 +8,11 @@ import {
   posts,
 } from "@/lib/posts";
 
+export const dynamic = "force-static";
+
 function abs(path: string): string {
-  return `${site.url}${path}`;
+  if (path === "/") return `${site.url}/`;
+  return `${site.url}${path.endsWith("/") ? path : `${path}/`}`;
 }
 
 function toDate(value: string): Date {

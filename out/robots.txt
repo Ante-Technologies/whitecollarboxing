@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://whitecollarboxing.org
+Sitemap: https://whitecollarboxing.org/sitemap.xml

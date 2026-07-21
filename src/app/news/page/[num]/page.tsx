@@ -4,6 +4,8 @@ import { PageWrap } from "@/components/page-wrap";
 import { PostArchive } from "@/components/post-archive";
 import { NEWS_PAGE_SIZE, getPostsByCategory } from "@/lib/posts";
 
+export const dynamicParams = false;
+
 const all = getPostsByCategory("news_page");
 const totalPages = Math.max(1, Math.ceil(all.length / NEWS_PAGE_SIZE));
 

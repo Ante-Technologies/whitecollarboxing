@@ -9,6 +9,8 @@ import {
   getPostsByCategory,
 } from "@/lib/posts";
 
+export const dynamicParams = false;
+
 type ParsedSlug = { path: string; page: number } | null;
 
 function parseSlug(slug: string[]): ParsedSlug {

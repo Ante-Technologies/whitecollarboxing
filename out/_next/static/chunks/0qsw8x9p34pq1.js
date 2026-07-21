@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,32492,t=>{"use strict";var l=t.i(43476),o=t.i(71645);t.s(["PostBlockImage",0,function({src:t,alt:a=""}){let[e,s]=(0,o.useState)(!1);return e?null:(0,l.jsx)("img",{src:t,alt:a,className:"h-auto max-w-full",loading:"lazy",onError:()=>s(!0)})}])}]);
