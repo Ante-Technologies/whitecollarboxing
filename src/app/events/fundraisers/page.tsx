@@ -66,7 +66,7 @@ export default function FundraisersPage() {
 
         <p className="pt-2">
           Make that call now and we will be more than happy to arrange a free
-          consultation with one of our team at Whitecollarboxing.org!!{" "}
+          consultation with one of our team at Whitecollarboxing.net!!{" "}
           <Link href="/contact" className="text-accent hover:underline">
             Contact us
           </Link>

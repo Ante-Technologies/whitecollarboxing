@@ -30,7 +30,7 @@ export function Footer() {
 
         <div>
           <h3 className="mb-4 font-heading text-lg font-bold text-white">
-            whitecollarboxing.org / WhitecollarHQ
+            whitecollarboxing.net / WhitecollarHQ
           </h3>
           <div className="space-y-3 text-sm leading-relaxed">
             <div className="flex gap-3">

@@ -51,7 +51,7 @@ export async function generateMetadata(
     parsed.page > 1 ? `${parsed.path}/page/${parsed.page}` : parsed.path;
   return {
     title: `${category.label} Archives${suffix}`,
-    description: `${category.label} archives from whitecollarboxing.org.`,
+    description: `${category.label} archives from whitecollarboxing.net.`,
     alternates: { canonical },
   };
 }

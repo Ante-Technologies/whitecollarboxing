@@ -21,7 +21,7 @@ export async function generateMetadata(
   const { num } = await props.params;
   return {
     title: `News - Page ${num}`,
-    description: "News archives from whitecollarboxing.org.",
+    description: "News archives from whitecollarboxing.net.",
     alternates: { canonical: `/news/page/${num}` },
   };
 }

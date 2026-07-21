@@ -6,7 +6,7 @@ import { NEWS_PAGE_SIZE, getPostsByCategory } from "@/lib/posts";
 export const metadata: Metadata = {
   title: "News",
   description:
-    "The latest news, boxing bootcamps and beginner boxing programmes from Whitecollarboxing.org.",
+    "The latest news, boxing bootcamps and beginner boxing programmes from Whitecollarboxing.net.",
   alternates: { canonical: "/news" },
 };
 

@@ -13,7 +13,7 @@ export default function Home() {
       <section className="relative flex min-h-[88vh] items-center justify-center overflow-hidden">
         <Image
           src="/images/hero-slide.jpg"
-          alt="whitecollarboxing.org"
+          alt="whitecollarboxing.net"
           fill
           priority
           unoptimized
@@ -42,7 +42,7 @@ export default function Home() {
             >
               <Image
                 src="/images/wcb-logo.png"
-                alt="whitecollarboxing.org"
+                alt="whitecollarboxing.net"
                 width={200}
                 height={79}
                 className="h-auto w-[200px]"
@@ -80,7 +80,7 @@ export default function Home() {
 
           <div className="mt-8 max-w-4xl space-y-6 text-base leading-relaxed text-foreground">
             <p>
-              WhiteCollarBoxing.org was formed in 2005 by former Irish Olympian
+              WhiteCollarBoxing.net was formed in 2005 by former Irish Olympian
               and Professional boxer, <strong>Cathal O&apos; Grady.</strong> It&apos;s
               mission was to bring the benefits of boxing for fitness and event
               boxing as a fundraising enterprise to a new audience. The result

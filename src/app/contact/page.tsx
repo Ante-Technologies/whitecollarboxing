@@ -6,7 +6,7 @@ import { site } from "@/lib/site";
 export const metadata: Metadata = {
   title: "Contact us",
   description:
-    "Contact Cathal O'Grady and the team at Whitecollarboxing.org / WhitecollarHQ, Unit 2b, Greenmount Industrial Estate, Harold's Cross, Dublin 6w.",
+    "Contact Cathal O'Grady and the team at Whitecollarboxing.net / WhitecollarHQ, Unit 2b, Greenmount Industrial Estate, Harold's Cross, Dublin 6w.",
   alternates: { canonical: "/contact" },
 };
 
@@ -18,7 +18,7 @@ export default function ContactPage() {
           <div className="space-y-4 text-base leading-relaxed text-foreground">
             <div>
               <p className="font-heading text-lg font-bold text-heading">
-                whitecollarboxing.org
+                whitecollarboxing.net
               </p>
               <p>WhitecollarHQ,</p>
               <p>{site.address.line1},</p>

@@ -1,4 +1,4 @@
-// AUTO-GENERATED from whitecollarboxing.org. Do not edit by hand.
+// AUTO-GENERATED from whitecollarboxing.net. Do not edit by hand.
 export type CategoryKey =
   | "events_main_page"
   | "previous_events"
@@ -1640,7 +1640,7 @@ export const posts: Post[] = [
     "excerpt": "We are excited to announce our 6 week Rise and Grind Boxing Conditioning programme. Train with Eoin Stanley and get fighting fit. Eoin will use all the tricks he learned working with GB Boxing, looking after Heavyweight Champion Anthony Joshua among others. Eoin will push your conditioning to the next level all he wants in […]",
     "paragraphs": [
       "We are excited to announce our 6 week Rise and Grind Boxing Conditioning programme. Train with Eoin Stanley and get fighting fit. Eoin will use all the tricks he learned working with GB Boxing, looking after Heavyweight Champion Anthony Joshua among others. Eoin will push your conditioning to the next level all he wants in return is your commitment and honesty (sounds simple). Expect sprinting, punchbags, sledgehammers among other fun toys. Weigh in and Body fat monitoring available. The programme starts on Monday January 14 th 2019 at 6.30am . Classes are Mondays and Wednesdays @6.30am and Saturday @10am Parking and Showers. Huge interest in this so don't miss out. Programme Costs €160 limited places",
-      "https://www.whitecollarboxing.org/sign-up/"
+      "https://www.whitecollarboxing.net/sign-up/"
     ],
     "image": null,
     "blocks": [
@@ -1650,7 +1650,7 @@ export const posts: Post[] = [
       },
       {
         "t": "p",
-        "v": "https://www.whitecollarboxing.org/sign-up/"
+        "v": "https://www.whitecollarboxing.net/sign-up/"
       },
       {
         "t": "img",
@@ -1721,7 +1721,7 @@ export const posts: Post[] = [
       "The White Collar Boxing phenomenon has spread across the country over recent years, and on March 10 Celbridge GAA will be another club to send its brave members into the ring.",
       "Rather than just getting involved for the joy of having a pop at fellow teammates and earning dressing room bragging rights, all 30 fighters are stepping up to the plate to raise money for the development of their club.",
       "Members of the senior football, hurling, ladies football and camogie teams, as well as underage managers, have been training relentlessly in preparation for the big night.",
-      "In partnership with The Village Inn, the club have also teamed up with WhiteCollarBoxing.org, founded back in 2005.",
+      "In partnership with The Village Inn, the club have also teamed up with WhiteCollarBoxing.net, founded back in 2005.",
       "The website was launched by former Irish Olympian and professional boxer Cathal O'Grady, and his mission was to bring the benefits of boxing to a previously neglected audience and get people involved in the sport.",
       "13 years later, with O'Grady spearheading the training, Celbridge GAA have got on board and it's all systems go for the night itself.",
       "Senior football manager Trevor O'Sullivan pointed to the dedication of all boxers in preparation for Fight Night 2018.",
@@ -1749,7 +1749,7 @@ export const posts: Post[] = [
       },
       {
         "t": "p",
-        "v": "In partnership with The Village Inn, the club have also teamed up with WhiteCollarBoxing.org, founded back in 2005."
+        "v": "In partnership with The Village Inn, the club have also teamed up with WhiteCollarBoxing.net, founded back in 2005."
       },
       {
         "t": "p",
@@ -2750,16 +2750,16 @@ export const posts: Post[] = [
     "slug": "wanderers-and-warriors-fight-night",
     "title": "Wanderers And Warriors Fight Night",
     "date": "November 17, 2015",
-    "excerpt": "Wanderers GAA Club Ballyboden we would like to thank whitecollarboxing.org for training the fighters and running the fightnight for our Wanderers and Warriors White Collar Boxing Night . As you can imagine there is a huge cost to run this event and without the support of our sponsors it would be impossible to hold this […]",
+    "excerpt": "Wanderers GAA Club Ballyboden we would like to thank whitecollarboxing.net for training the fighters and running the fightnight for our Wanderers and Warriors White Collar Boxing Night . As you can imagine there is a huge cost to run this event and without the support of our sponsors it would be impossible to hold this […]",
     "paragraphs": [
-      "Wanderers GAA Club Ballyboden we would like to thank whitecollarboxing.org for training the fighters and running the fightnight for our Wanderers and Warriors White Collar Boxing Night . As you can imagine there is a huge cost to run this event and without the support of our sponsors it would be impossible to hold this event. Their sponsorship will go towards the Juvenile GAA coach for the club and local schools and community. Tickets for the event can be bought online at www.wanderersgaa.ie",
+      "Wanderers GAA Club Ballyboden we would like to thank whitecollarboxing.net for training the fighters and running the fightnight for our Wanderers and Warriors White Collar Boxing Night . As you can imagine there is a huge cost to run this event and without the support of our sponsors it would be impossible to hold this event. Their sponsorship will go towards the Juvenile GAA coach for the club and local schools and community. Tickets for the event can be bought online at www.wanderersgaa.ie",
       "The event will take place in The Palace on Camden St on Saturday November 28th 2015"
     ],
     "image": null,
     "blocks": [
       {
         "t": "p",
-        "v": "Wanderers GAA Club Ballyboden we would like to thank whitecollarboxing.org for training the fighters and running the fightnight for our Wanderers and Warriors White Collar Boxing Night . As you can imagine there is a huge cost to run this event and without the support of our sponsors it would be impossible to hold this event. Their sponsorship will go towards the Juvenile GAA coach for the club and local schools and community. Tickets for the event can be bought online at www.wanderersgaa.ie"
+        "v": "Wanderers GAA Club Ballyboden we would like to thank whitecollarboxing.net for training the fighters and running the fightnight for our Wanderers and Warriors White Collar Boxing Night . As you can imagine there is a huge cost to run this event and without the support of our sponsors it would be impossible to hold this event. Their sponsorship will go towards the Juvenile GAA coach for the club and local schools and community. Tickets for the event can be bought online at www.wanderersgaa.ie"
       },
       {
         "t": "p",
@@ -2835,13 +2835,13 @@ export const posts: Post[] = [
     "date": "October 1, 2015",
     "excerpt": "Our next 8 week \"Begin to Box\" programme, commences on Monday the 19th of October at 7pm. Learn the basics of boxing while having fun doing so. This programme is suitable for complete beginners. Training will take place in our purpose built boxing gym in Harolds Cross, Dublin 6. You will be trained and inspired […]",
     "paragraphs": [
-      "Our next 8 week \"Begin to Box\" programme, commences on Monday the 19th of October at 7pm. Learn the basics of boxing while having fun doing so. This programme is suitable for complete beginners. Training will take place in our purpose built boxing gym in Harolds Cross, Dublin 6. You will be trained and inspired by our team of elite coaches. The sessions are on Mondays and Wednesdays at 7pm. If you are serious about getting fit and learning how to box, our gym at White Collar HQ is the place to come. Places are limited, so sign up soon. The programme costs €180. If you require any further info, please do not hesitate to contact Cathal on +353 87 8526323 or email info@whitecollarboxing.org."
+      "Our next 8 week \"Begin to Box\" programme, commences on Monday the 19th of October at 7pm. Learn the basics of boxing while having fun doing so. This programme is suitable for complete beginners. Training will take place in our purpose built boxing gym in Harolds Cross, Dublin 6. You will be trained and inspired by our team of elite coaches. The sessions are on Mondays and Wednesdays at 7pm. If you are serious about getting fit and learning how to box, our gym at White Collar HQ is the place to come. Places are limited, so sign up soon. The programme costs €180. If you require any further info, please do not hesitate to contact Cathal on +353 87 8526323 or email info@whitecollarboxing.net."
     ],
     "image": null,
     "blocks": [
       {
         "t": "p",
-        "v": "Our next 8 week \"Begin to Box\" programme, commences on Monday the 19th of October at 7pm. Learn the basics of boxing while having fun doing so. This programme is suitable for complete beginners. Training will take place in our purpose built boxing gym in Harolds Cross, Dublin 6. You will be trained and inspired by our team of elite coaches. The sessions are on Mondays and Wednesdays at 7pm. If you are serious about getting fit and learning how to box, our gym at White Collar HQ is the place to come. Places are limited, so sign up soon. The programme costs €180. If you require any further info, please do not hesitate to contact Cathal on +353 87 8526323 or email info@whitecollarboxing.org."
+        "v": "Our next 8 week \"Begin to Box\" programme, commences on Monday the 19th of October at 7pm. Learn the basics of boxing while having fun doing so. This programme is suitable for complete beginners. Training will take place in our purpose built boxing gym in Harolds Cross, Dublin 6. You will be trained and inspired by our team of elite coaches. The sessions are on Mondays and Wednesdays at 7pm. If you are serious about getting fit and learning how to box, our gym at White Collar HQ is the place to come. Places are limited, so sign up soon. The programme costs €180. If you require any further info, please do not hesitate to contact Cathal on +353 87 8526323 or email info@whitecollarboxing.net."
       },
       {
         "t": "img",
@@ -2875,13 +2875,13 @@ export const posts: Post[] = [
     "date": "October 1, 2015",
     "excerpt": "Our next 8 week \"Begin to Box\" programme, commences on Monday the 19th of October at 7pm. Learn the basics of boxing while having fun doing so. This programme is suitable for complete beginners. Training will take place in our purpose built boxing gym in Harolds Cross, Dublin 6. You will be trained and inspired […]",
     "paragraphs": [
-      "Our next 8 week \"Begin to Box\" programme, commences on Monday the 19th of October at 7pm. Learn the basics of boxing while having fun doing so. This programme is suitable for complete beginners. Training will take place in our purpose built boxing gym in Harolds Cross, Dublin 6. You will be trained and inspired by our team of elite coaches. The sessions are on Mondays and Wednesdays at 7pm. If you are serious about getting fit and learning how to box, our gym at White Collar HQ is the place to come. Places are limited, so sign up soon. The programme costs €180. If you require any further info, please do not hesitate to contact Cathal on +353 87 8526323 or email info@whitecollarboxing.org."
+      "Our next 8 week \"Begin to Box\" programme, commences on Monday the 19th of October at 7pm. Learn the basics of boxing while having fun doing so. This programme is suitable for complete beginners. Training will take place in our purpose built boxing gym in Harolds Cross, Dublin 6. You will be trained and inspired by our team of elite coaches. The sessions are on Mondays and Wednesdays at 7pm. If you are serious about getting fit and learning how to box, our gym at White Collar HQ is the place to come. Places are limited, so sign up soon. The programme costs €180. If you require any further info, please do not hesitate to contact Cathal on +353 87 8526323 or email info@whitecollarboxing.net."
     ],
     "image": null,
     "blocks": [
       {
         "t": "p",
-        "v": "Our next 8 week \"Begin to Box\" programme, commences on Monday the 19th of October at 7pm. Learn the basics of boxing while having fun doing so. This programme is suitable for complete beginners. Training will take place in our purpose built boxing gym in Harolds Cross, Dublin 6. You will be trained and inspired by our team of elite coaches. The sessions are on Mondays and Wednesdays at 7pm. If you are serious about getting fit and learning how to box, our gym at White Collar HQ is the place to come. Places are limited, so sign up soon. The programme costs €180. If you require any further info, please do not hesitate to contact Cathal on +353 87 8526323 or email info@whitecollarboxing.org."
+        "v": "Our next 8 week \"Begin to Box\" programme, commences on Monday the 19th of October at 7pm. Learn the basics of boxing while having fun doing so. This programme is suitable for complete beginners. Training will take place in our purpose built boxing gym in Harolds Cross, Dublin 6. You will be trained and inspired by our team of elite coaches. The sessions are on Mondays and Wednesdays at 7pm. If you are serious about getting fit and learning how to box, our gym at White Collar HQ is the place to come. Places are limited, so sign up soon. The programme costs €180. If you require any further info, please do not hesitate to contact Cathal on +353 87 8526323 or email info@whitecollarboxing.net."
       },
       {
         "t": "img",
@@ -2915,13 +2915,13 @@ export const posts: Post[] = [
     "date": "July 23, 2015",
     "excerpt": "Our 8 week September Boxing and Conditioning, starts Monday 7th of September at 7pm. Learn the basics of boxing while having fun doing so. This programme for Boxing Training Dublin is suitable for complete beginners . Training will take place in our gym in Harolds Cross Dublin 6. You will be trained and inspired by […]",
     "paragraphs": [
-      "Our 8 week September Boxing and Conditioning, starts Monday 7th of September at 7pm. Learn the basics of boxing while having fun doing so. This programme for Boxing Training Dublin is suitable for complete beginners . Training will take place in our gym in Harolds Cross Dublin 6. You will be trained and inspired by our team of top International and Olympic Coaches from the worlds of boxing and Athletics who will have you fighting fit in no time. The boxing sessions are Mondays and Wednesdays at 7pm. Our Strength and Conditioning classes are 7am and 6pm on Tuesdays and Thursdays and at 10 am on Saturday morning . If you are serious about getting fit this is the place to come . Places are limited. The programme costs €180. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.org for more information"
+      "Our 8 week September Boxing and Conditioning, starts Monday 7th of September at 7pm. Learn the basics of boxing while having fun doing so. This programme for Boxing Training Dublin is suitable for complete beginners . Training will take place in our gym in Harolds Cross Dublin 6. You will be trained and inspired by our team of top International and Olympic Coaches from the worlds of boxing and Athletics who will have you fighting fit in no time. The boxing sessions are Mondays and Wednesdays at 7pm. Our Strength and Conditioning classes are 7am and 6pm on Tuesdays and Thursdays and at 10 am on Saturday morning . If you are serious about getting fit this is the place to come . Places are limited. The programme costs €180. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.net for more information"
     ],
     "image": null,
     "blocks": [
       {
         "t": "p",
-        "v": "Our 8 week September Boxing and Conditioning, starts Monday 7th of September at 7pm. Learn the basics of boxing while having fun doing so. This programme for Boxing Training Dublin is suitable for complete beginners . Training will take place in our gym in Harolds Cross Dublin 6. You will be trained and inspired by our team of top International and Olympic Coaches from the worlds of boxing and Athletics who will have you fighting fit in no time. The boxing sessions are Mondays and Wednesdays at 7pm. Our Strength and Conditioning classes are 7am and 6pm on Tuesdays and Thursdays and at 10 am on Saturday morning . If you are serious about getting fit this is the place to come . Places are limited. The programme costs €180. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.org for more information"
+        "v": "Our 8 week September Boxing and Conditioning, starts Monday 7th of September at 7pm. Learn the basics of boxing while having fun doing so. This programme for Boxing Training Dublin is suitable for complete beginners . Training will take place in our gym in Harolds Cross Dublin 6. You will be trained and inspired by our team of top International and Olympic Coaches from the worlds of boxing and Athletics who will have you fighting fit in no time. The boxing sessions are Mondays and Wednesdays at 7pm. Our Strength and Conditioning classes are 7am and 6pm on Tuesdays and Thursdays and at 10 am on Saturday morning . If you are serious about getting fit this is the place to come . Places are limited. The programme costs €180. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.net for more information"
       },
       {
         "t": "img",
@@ -3028,7 +3028,7 @@ export const posts: Post[] = [
     "date": "June 12, 2015",
     "excerpt": "Why not try out our 8 week July Boxing Programme, starts Tuesday 7th of July at 7pm. Learn the basics of boxing while having fun doing so. This programme is suitable for beginners. Training will take place in our very own gym in Harolds Cross Dublin 6 You will be trained and inspired by our […]",
     "paragraphs": [
-      "Why not try out our 8 week July Boxing Programme, starts Tuesday 7th of July at 7pm. Learn the basics of boxing while having fun doing so. This programme is suitable for beginners. Training will take place in our very own gym in Harolds Cross Dublin 6 You will be trained and inspired by our team of top International and Olympic Coaches from the worlds of boxing and Athletics who will have you fighting fit in no time. The boxing sessions are Tuesdays and Thursdays at 7pm with an option of sparring on Fridays from 6 to 9pm and weekend warrior Strength and Conditioning class at 10 am on Saturday . This programme allows you access to all classes on the timetable so you can try different trainers or different days . Places are limited. The programme costs €150. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.org for more information"
+      "Why not try out our 8 week July Boxing Programme, starts Tuesday 7th of July at 7pm. Learn the basics of boxing while having fun doing so. This programme is suitable for beginners. Training will take place in our very own gym in Harolds Cross Dublin 6 You will be trained and inspired by our team of top International and Olympic Coaches from the worlds of boxing and Athletics who will have you fighting fit in no time. The boxing sessions are Tuesdays and Thursdays at 7pm with an option of sparring on Fridays from 6 to 9pm and weekend warrior Strength and Conditioning class at 10 am on Saturday . This programme allows you access to all classes on the timetable so you can try different trainers or different days . Places are limited. The programme costs €150. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.net for more information"
     ],
     "image": null,
     "blocks": [
@@ -3039,7 +3039,7 @@ export const posts: Post[] = [
       },
       {
         "t": "p",
-        "v": "Why not try out our 8 week July Boxing Programme, starts Tuesday 7th of July at 7pm. Learn the basics of boxing while having fun doing so. This programme is suitable for beginners. Training will take place in our very own gym in Harolds Cross Dublin 6 You will be trained and inspired by our team of top International and Olympic Coaches from the worlds of boxing and Athletics who will have you fighting fit in no time. The boxing sessions are Tuesdays and Thursdays at 7pm with an option of sparring on Fridays from 6 to 9pm and weekend warrior Strength and Conditioning class at 10 am on Saturday . This programme allows you access to all classes on the timetable so you can try different trainers or different days . Places are limited. The programme costs €150. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.org for more information"
+        "v": "Why not try out our 8 week July Boxing Programme, starts Tuesday 7th of July at 7pm. Learn the basics of boxing while having fun doing so. This programme is suitable for beginners. Training will take place in our very own gym in Harolds Cross Dublin 6 You will be trained and inspired by our team of top International and Olympic Coaches from the worlds of boxing and Athletics who will have you fighting fit in no time. The boxing sessions are Tuesdays and Thursdays at 7pm with an option of sparring on Fridays from 6 to 9pm and weekend warrior Strength and Conditioning class at 10 am on Saturday . This programme allows you access to all classes on the timetable so you can try different trainers or different days . Places are limited. The programme costs €150. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.net for more information"
       }
     ],
     "postedIn": [
@@ -3172,18 +3172,18 @@ export const posts: Post[] = [
     "date": "May 5, 2015",
     "excerpt": "8 week boxing training programme starting on May, 25th . This programme is suitable for beginners. Training will take place in our very own boxing gym in Harolds Cross Dublin 6 You will be trained and inspired by our team of top International and Olympic Coaches from the worlds of boxing and Athletics who will […]",
     "paragraphs": [
-      "8 week boxing training programme starting on May, 25th . This programme is suitable for beginners. Training will take place in our very own boxing gym in Harolds Cross Dublin 6 You will be trained and inspired by our team of top International and Olympic Coaches from the worlds of boxing and Athletics who will have you fighting fit in no time. The boxing sessions are Monday and Wednesday at 7pm with an option of sparring on Fridays from 6 to 9pm. The strength and conditioning classes are Tuesdays and Thursdays at 7 am and 6pm on both days and a Saturday morning Weekend Warrior giving you plenty of choice. This programme allows you access to all classes on the timetable. Places are limited. The programme costs €150. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.org for more information.",
-      "https://www.whitecollarboxing.org/sign-up/"
+      "8 week boxing training programme starting on May, 25th . This programme is suitable for beginners. Training will take place in our very own boxing gym in Harolds Cross Dublin 6 You will be trained and inspired by our team of top International and Olympic Coaches from the worlds of boxing and Athletics who will have you fighting fit in no time. The boxing sessions are Monday and Wednesday at 7pm with an option of sparring on Fridays from 6 to 9pm. The strength and conditioning classes are Tuesdays and Thursdays at 7 am and 6pm on both days and a Saturday morning Weekend Warrior giving you plenty of choice. This programme allows you access to all classes on the timetable. Places are limited. The programme costs €150. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.net for more information.",
+      "https://www.whitecollarboxing.net/sign-up/"
     ],
     "image": null,
     "blocks": [
       {
         "t": "p",
-        "v": "8 week boxing training programme starting on May, 25th . This programme is suitable for beginners. Training will take place in our very own boxing gym in Harolds Cross Dublin 6 You will be trained and inspired by our team of top International and Olympic Coaches from the worlds of boxing and Athletics who will have you fighting fit in no time. The boxing sessions are Monday and Wednesday at 7pm with an option of sparring on Fridays from 6 to 9pm. The strength and conditioning classes are Tuesdays and Thursdays at 7 am and 6pm on both days and a Saturday morning Weekend Warrior giving you plenty of choice. This programme allows you access to all classes on the timetable. Places are limited. The programme costs €150. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.org for more information."
+        "v": "8 week boxing training programme starting on May, 25th . This programme is suitable for beginners. Training will take place in our very own boxing gym in Harolds Cross Dublin 6 You will be trained and inspired by our team of top International and Olympic Coaches from the worlds of boxing and Athletics who will have you fighting fit in no time. The boxing sessions are Monday and Wednesday at 7pm with an option of sparring on Fridays from 6 to 9pm. The strength and conditioning classes are Tuesdays and Thursdays at 7 am and 6pm on both days and a Saturday morning Weekend Warrior giving you plenty of choice. This programme allows you access to all classes on the timetable. Places are limited. The programme costs €150. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.net for more information."
       },
       {
         "t": "p",
-        "v": "https://www.whitecollarboxing.org/sign-up/"
+        "v": "https://www.whitecollarboxing.net/sign-up/"
       }
     ],
     "postedIn": [
@@ -3207,13 +3207,13 @@ export const posts: Post[] = [
     "date": "April 10, 2015",
     "excerpt": "8 week boxing training programme starting on Tuesday, 28th April. Training will take place in our very own boxing gym in Harolds Cross Dublin 6. Our Boxing(Nut)Coach Richie will take you under his boxing wing and teach you \"The Sweet Science\" the class will contain both boxing technique work various boxing drills aswell as some […]",
     "paragraphs": [
-      "8 week boxing training programme starting on Tuesday, 28th April. Training will take place in our very own boxing gym in Harolds Cross Dublin 6. Our Boxing(Nut)Coach Richie will take you under his boxing wing and teach you \"The Sweet Science\" the class will contain both boxing technique work various boxing drills aswell as some tough conditioning work. The boxing classes are Tuesdays and Thursdays at 7pm with an option of sparring on Fridays from 6 to 8pm and a Saturday morning 10am Weekend Warrior . This programme will have you in the shape of your life Guaranteed. Places are limited. The programme costs €150. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.org for more information."
+      "8 week boxing training programme starting on Tuesday, 28th April. Training will take place in our very own boxing gym in Harolds Cross Dublin 6. Our Boxing(Nut)Coach Richie will take you under his boxing wing and teach you \"The Sweet Science\" the class will contain both boxing technique work various boxing drills aswell as some tough conditioning work. The boxing classes are Tuesdays and Thursdays at 7pm with an option of sparring on Fridays from 6 to 8pm and a Saturday morning 10am Weekend Warrior . This programme will have you in the shape of your life Guaranteed. Places are limited. The programme costs €150. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.net for more information."
     ],
     "image": null,
     "blocks": [
       {
         "t": "p",
-        "v": "8 week boxing training programme starting on Tuesday, 28th April. Training will take place in our very own boxing gym in Harolds Cross Dublin 6. Our Boxing(Nut)Coach Richie will take you under his boxing wing and teach you \"The Sweet Science\" the class will contain both boxing technique work various boxing drills aswell as some tough conditioning work. The boxing classes are Tuesdays and Thursdays at 7pm with an option of sparring on Fridays from 6 to 8pm and a Saturday morning 10am Weekend Warrior . This programme will have you in the shape of your life Guaranteed. Places are limited. The programme costs €150. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.org for more information."
+        "v": "8 week boxing training programme starting on Tuesday, 28th April. Training will take place in our very own boxing gym in Harolds Cross Dublin 6. Our Boxing(Nut)Coach Richie will take you under his boxing wing and teach you \"The Sweet Science\" the class will contain both boxing technique work various boxing drills aswell as some tough conditioning work. The boxing classes are Tuesdays and Thursdays at 7pm with an option of sparring on Fridays from 6 to 8pm and a Saturday morning 10am Weekend Warrior . This programme will have you in the shape of your life Guaranteed. Places are limited. The programme costs €150. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.net for more information."
       },
       {
         "t": "img",
@@ -3281,13 +3281,13 @@ export const posts: Post[] = [
     "date": "February 20, 2015",
     "excerpt": "8 week boxing training programme starting on Monday, 23rd March. Training will take place in our very own boxing gym in Harolds Cross Dublin 6 You will be trained and inspired by our team of top International and Olympic Coaches from the worlds of boxing and Athletics who will have you fighting fit in no […]",
     "paragraphs": [
-      "8 week boxing training programme starting on Monday, 23rd March. Training will take place in our very own boxing gym in Harolds Cross Dublin 6 You will be trained and inspired by our team of top International and Olympic Coaches from the worlds of boxing and Athletics who will have you fighting fit in no time. The boxing sessions are Monday and Wednesday at 7pm with an option of sparring on Fridays from 6 to 9pm. The strength and conditioning classes are Tuesdays and Thursdays at 7 am and 6pm on both days and a Saturday morning Weekend Warrior giving you plenty of choice. This programme allows you access to all classes on the timetable. Places are limited. The programme costs €150. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.org for more information."
+      "8 week boxing training programme starting on Monday, 23rd March. Training will take place in our very own boxing gym in Harolds Cross Dublin 6 You will be trained and inspired by our team of top International and Olympic Coaches from the worlds of boxing and Athletics who will have you fighting fit in no time. The boxing sessions are Monday and Wednesday at 7pm with an option of sparring on Fridays from 6 to 9pm. The strength and conditioning classes are Tuesdays and Thursdays at 7 am and 6pm on both days and a Saturday morning Weekend Warrior giving you plenty of choice. This programme allows you access to all classes on the timetable. Places are limited. The programme costs €150. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.net for more information."
     ],
     "image": null,
     "blocks": [
       {
         "t": "p",
-        "v": "8 week boxing training programme starting on Monday, 23rd March. Training will take place in our very own boxing gym in Harolds Cross Dublin 6 You will be trained and inspired by our team of top International and Olympic Coaches from the worlds of boxing and Athletics who will have you fighting fit in no time. The boxing sessions are Monday and Wednesday at 7pm with an option of sparring on Fridays from 6 to 9pm. The strength and conditioning classes are Tuesdays and Thursdays at 7 am and 6pm on both days and a Saturday morning Weekend Warrior giving you plenty of choice. This programme allows you access to all classes on the timetable. Places are limited. The programme costs €150. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.org for more information."
+        "v": "8 week boxing training programme starting on Monday, 23rd March. Training will take place in our very own boxing gym in Harolds Cross Dublin 6 You will be trained and inspired by our team of top International and Olympic Coaches from the worlds of boxing and Athletics who will have you fighting fit in no time. The boxing sessions are Monday and Wednesday at 7pm with an option of sparring on Fridays from 6 to 9pm. The strength and conditioning classes are Tuesdays and Thursdays at 7 am and 6pm on both days and a Saturday morning Weekend Warrior giving you plenty of choice. This programme allows you access to all classes on the timetable. Places are limited. The programme costs €150. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.net for more information."
       }
     ],
     "postedIn": [
@@ -3574,15 +3574,15 @@ export const posts: Post[] = [
     "slug": "boxing-classes-weight-loss",
     "title": "Boxing Classes for weight loss",
     "date": "January 9, 2015",
-    "excerpt": "When everyone is rushing for the latest \"lose weight\" quick buzz, we at whitecollarboxing.org are applying a more proven and traditional approach. Boxing training is a great workout, it's high intensity burns lots of calories. It also helps with building muscle, especially in the upper body. The mental aspect of trying to conquer a new […]",
+    "excerpt": "When everyone is rushing for the latest \"lose weight\" quick buzz, we at whitecollarboxing.net are applying a more proven and traditional approach. Boxing training is a great workout, it's high intensity burns lots of calories. It also helps with building muscle, especially in the upper body. The mental aspect of trying to conquer a new […]",
     "paragraphs": [
-      "When everyone is rushing for the latest \"lose weight\" quick buzz, we at whitecollarboxing.org are applying a more proven and traditional approach. Boxing training is a great workout, it's high intensity burns lots of calories. It also helps with building muscle, especially in the upper body. The mental aspect of trying to conquer a new skill, will keep you from getting bored and you will avoid the temptation to quit. We are coupling our boxing training with strength and conditioning classes to maximize the benefits. Our S & C classes are intense, but very enjoyable."
+      "When everyone is rushing for the latest \"lose weight\" quick buzz, we at whitecollarboxing.net are applying a more proven and traditional approach. Boxing training is a great workout, it's high intensity burns lots of calories. It also helps with building muscle, especially in the upper body. The mental aspect of trying to conquer a new skill, will keep you from getting bored and you will avoid the temptation to quit. We are coupling our boxing training with strength and conditioning classes to maximize the benefits. Our S & C classes are intense, but very enjoyable."
     ],
     "image": null,
     "blocks": [
       {
         "t": "p",
-        "v": "When everyone is rushing for the latest \"lose weight\" quick buzz, we at whitecollarboxing.org are applying a more proven and traditional approach. Boxing training is a great workout, it's high intensity burns lots of calories. It also helps with building muscle, especially in the upper body. The mental aspect of trying to conquer a new skill, will keep you from getting bored and you will avoid the temptation to quit. We are coupling our boxing training with strength and conditioning classes to maximize the benefits. Our S & C classes are intense, but very enjoyable."
+        "v": "When everyone is rushing for the latest \"lose weight\" quick buzz, we at whitecollarboxing.net are applying a more proven and traditional approach. Boxing training is a great workout, it's high intensity burns lots of calories. It also helps with building muscle, especially in the upper body. The mental aspect of trying to conquer a new skill, will keep you from getting bored and you will avoid the temptation to quit. We are coupling our boxing training with strength and conditioning classes to maximize the benefits. Our S & C classes are intense, but very enjoyable."
       }
     ],
     "postedIn": [
@@ -3649,7 +3649,7 @@ export const posts: Post[] = [
       "You will be trained and inspired by our team of top International and Olympic Coaches from the worlds of boxing and Athletics who will have you fighting fit in no time.",
       "The boxing sessions are Monday and Wednesday at 7pm with an option of sparring on Fridays from 6 to 9pm.",
       "The strength and conditioning classes are Tuesdays and Thursdays at 7 am and 6pm on both days and a Saturday morning Strongman giving you plenty of choice.",
-      "Places are limited. The programme costs €200. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.org for more information."
+      "Places are limited. The programme costs €200. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.net for more information."
     ],
     "image": null,
     "blocks": [
@@ -3671,7 +3671,7 @@ export const posts: Post[] = [
       },
       {
         "t": "p",
-        "v": "Places are limited. The programme costs €200. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.org for more information."
+        "v": "Places are limited. The programme costs €200. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.net for more information."
       }
     ],
     "postedIn": [
@@ -3850,7 +3850,7 @@ export const posts: Post[] = [
       "We recommend that if you are taking part in two boxing sessions per week (these are primarily high intensity cardio in nature) you should complement these with 1 or 2 strength sessions as well. For the perfect training week add in a low level cardio session such as running, a long walk or a light game of your favourite sport to boost heart health.",
       "What do we offer @ HQ?",
       "Currently we run Morning Conditioning @ 7am and Strength and Conditioning @ 6pm on Tuesdays and Thursdays as well as Weekend Warrior @ 10am on Saturdays. All of which will fulfil your strength training needs.",
-      "All levels of fitness and strength are catered for at each session, contact hq@whitecollarboxing.org for more info.",
+      "All levels of fitness and strength are catered for at each session, contact hq@whitecollarboxing.net for more info.",
       "Des"
     ],
     "image": null,
@@ -3933,7 +3933,7 @@ export const posts: Post[] = [
       },
       {
         "t": "p",
-        "v": "All levels of fitness and strength are catered for at each session, contact hq@whitecollarboxing.org for more info."
+        "v": "All levels of fitness and strength are catered for at each session, contact hq@whitecollarboxing.net for more info."
       },
       {
         "t": "p",
@@ -4072,15 +4072,15 @@ export const posts: Post[] = [
     "slug": "blue-and-white-fight-night-4114",
     "title": "Blue and White Fight Night 4/1/14",
     "date": "September 19, 2014",
-    "excerpt": "St Annes Gaa Tallaght and whitecollarboxing.org proudly present Blue and White Fight Night in Citywest Hotel. The show is sponsored by Paddy Power and tickets are €25. The training is going well and there is over 1000 tickets sold already",
+    "excerpt": "St Annes Gaa Tallaght and whitecollarboxing.net proudly present Blue and White Fight Night in Citywest Hotel. The show is sponsored by Paddy Power and tickets are €25. The training is going well and there is over 1000 tickets sold already",
     "paragraphs": [
-      "St Annes Gaa Tallaght and whitecollarboxing.org proudly present Blue and White Fight Night in Citywest Hotel. The show is sponsored by Paddy Power and tickets are €25. The training is going well and there is over 1000 tickets sold already"
+      "St Annes Gaa Tallaght and whitecollarboxing.net proudly present Blue and White Fight Night in Citywest Hotel. The show is sponsored by Paddy Power and tickets are €25. The training is going well and there is over 1000 tickets sold already"
     ],
     "image": null,
     "blocks": [
       {
         "t": "p",
-        "v": "St Annes Gaa Tallaght and whitecollarboxing.org proudly present Blue and White Fight Night in Citywest Hotel. The show is sponsored by Paddy Power and tickets are €25. The training is going well and there is over 1000 tickets sold already"
+        "v": "St Annes Gaa Tallaght and whitecollarboxing.net proudly present Blue and White Fight Night in Citywest Hotel. The show is sponsored by Paddy Power and tickets are €25. The training is going well and there is over 1000 tickets sold already"
       },
       {
         "t": "img",
@@ -4319,7 +4319,7 @@ export const posts: Post[] = [
     "date": "May 22, 2014",
     "excerpt": "We are delighted to announce \"Titanic Tussle\" at the Titanic Conference Centre , This is going to be epic !!!! We are currently looking for those courageous enough to climb on board and be a hero for six minutes. Spaces are limited and absolutely no boxing experience is required. Boxers will be trained expertly by […]",
     "paragraphs": [
-      "We are delighted to announce \"Titanic Tussle\" at the Titanic Conference Centre , This is going to be epic !!!! We are currently looking for those courageous enough to climb on board and be a hero for six minutes. Spaces are limited and absolutely no boxing experience is required. Boxers will be trained expertly by the team at Monkstown Bc, The soul focus of the training will be on getting you in the best physical and mental shape to climb into a boxing ring. There is no hiding places in the boxing ring and their will be no hiding places in this programme. The fight will take place on Thursday 23rd October and we encourage people to align themselves with a good cause/charity and make this worth while on a number of levels. So if you are getting that sinking feeling that you need to do something worth while with your life be a survivor get in touch now 07909694328 email info@whitecollarboxing.org or message us on FB",
+      "We are delighted to announce \"Titanic Tussle\" at the Titanic Conference Centre , This is going to be epic !!!! We are currently looking for those courageous enough to climb on board and be a hero for six minutes. Spaces are limited and absolutely no boxing experience is required. Boxers will be trained expertly by the team at Monkstown Bc, The soul focus of the training will be on getting you in the best physical and mental shape to climb into a boxing ring. There is no hiding places in the boxing ring and their will be no hiding places in this programme. The fight will take place on Thursday 23rd October and we encourage people to align themselves with a good cause/charity and make this worth while on a number of levels. So if you are getting that sinking feeling that you need to do something worth while with your life be a survivor get in touch now 07909694328 email info@whitecollarboxing.net or message us on FB",
       "Your supporters will get the opportunity to enjoy the fights and the White Star Hospitality"
     ],
     "image": null,
@@ -4331,7 +4331,7 @@ export const posts: Post[] = [
       },
       {
         "t": "p",
-        "v": "We are delighted to announce \"Titanic Tussle\" at the Titanic Conference Centre , This is going to be epic !!!! We are currently looking for those courageous enough to climb on board and be a hero for six minutes. Spaces are limited and absolutely no boxing experience is required. Boxers will be trained expertly by the team at Monkstown Bc, The soul focus of the training will be on getting you in the best physical and mental shape to climb into a boxing ring. There is no hiding places in the boxing ring and their will be no hiding places in this programme. The fight will take place on Thursday 23rd October and we encourage people to align themselves with a good cause/charity and make this worth while on a number of levels. So if you are getting that sinking feeling that you need to do something worth while with your life be a survivor get in touch now 07909694328 email info@whitecollarboxing.org or message us on FB"
+        "v": "We are delighted to announce \"Titanic Tussle\" at the Titanic Conference Centre , This is going to be epic !!!! We are currently looking for those courageous enough to climb on board and be a hero for six minutes. Spaces are limited and absolutely no boxing experience is required. Boxers will be trained expertly by the team at Monkstown Bc, The soul focus of the training will be on getting you in the best physical and mental shape to climb into a boxing ring. There is no hiding places in the boxing ring and their will be no hiding places in this programme. The fight will take place on Thursday 23rd October and we encourage people to align themselves with a good cause/charity and make this worth while on a number of levels. So if you are getting that sinking feeling that you need to do something worth while with your life be a survivor get in touch now 07909694328 email info@whitecollarboxing.net or message us on FB"
       },
       {
         "t": "p",
@@ -4470,7 +4470,7 @@ export const posts: Post[] = [
       "The programme consists of 8 weeks intensive training by our International and Olympic Coaches, starting on the 8th September, Boxing training is every Monday and Wednesday night at 7pm with conditioning on Tuesday and Thursday mornings at 7am. The soul focus of the training will be on getting you in the best physical and mental shape to climb into a boxing ring. There is no hiding places in the boxing ring and their will be no hiding places in this programme. The fight will take place in late October and we encourage people to align themselves with a good cause/charity and make this worth while on a number of levels. Participants fitness/strength/weight will be measured and monitored throughout the programme",
       "The programme costs €250 and spaces are limited",
       "\"Special new gym opening offer of €150 for all courses bought online\"",
-      "Sign up today by contacting Cathal on +353 87 8526323 or email info@whitecollarboxing.org"
+      "Sign up today by contacting Cathal on +353 87 8526323 or email info@whitecollarboxing.net"
     ],
     "image": null,
     "blocks": [
@@ -4488,7 +4488,7 @@ export const posts: Post[] = [
       },
       {
         "t": "p",
-        "v": "Sign up today by contacting Cathal on +353 87 8526323 or email info@whitecollarboxing.org"
+        "v": "Sign up today by contacting Cathal on +353 87 8526323 or email info@whitecollarboxing.net"
       }
     ],
     "postedIn": [
@@ -4518,7 +4518,7 @@ export const posts: Post[] = [
     "paragraphs": [
       "White Collar Boxers be brave….. Eoin Stanley is back!! Those of you familiar with our infamous morning sessions live in fear of this man, but in March he will transform you into the shape of your lives – if you dare!!",
       "On the Monday 10th of March at 8pm we are running our first ever 6 week H.I.I.T Boxing course. This High Interval Intensity Boxing Training is as a Boxing specific Strength and Conditioning program tailored for anyone who wants to improve their overall fitness and general health. No boxing experience necessary.",
-      "Sessions will take place every Monday and Wednesday at 8pm in the National Boxing Stadium on the South Circular Road. The course costs €150. To register please email info@whitecollarboxing.org or contact Cathal on 087-8526323. Places are limited.",
+      "Sessions will take place every Monday and Wednesday at 8pm in the National Boxing Stadium on the South Circular Road. The course costs €150. To register please email info@whitecollarboxing.net or contact Cathal on 087-8526323. Places are limited.",
       "For this course only, if you puke we will offer you a free session after!!!"
     ],
     "image": null,
@@ -4533,7 +4533,7 @@ export const posts: Post[] = [
       },
       {
         "t": "p",
-        "v": "Sessions will take place every Monday and Wednesday at 8pm in the National Boxing Stadium on the South Circular Road. The course costs €150. To register please email info@whitecollarboxing.org or contact Cathal on 087-8526323. Places are limited."
+        "v": "Sessions will take place every Monday and Wednesday at 8pm in the National Boxing Stadium on the South Circular Road. The course costs €150. To register please email info@whitecollarboxing.net or contact Cathal on 087-8526323. Places are limited."
       },
       {
         "t": "p",
@@ -4572,7 +4572,7 @@ export const posts: Post[] = [
     "paragraphs": [
       "Feel like a \"Million Dollar Baby\" this year and join our ladies boxing class!",
       "Starting on Monday 27th of January this fun filled class will have you looking firm and fit in no time! The programme involves two weekly sessions (Mondays and Wednesdays at 8pm) over 6 weeks at the National Stadium Gym on the South Circular Road in Dublin.",
-      "The programme costs €120. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.org"
+      "The programme costs €120. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.net"
     ],
     "image": null,
     "blocks": [
@@ -4586,7 +4586,7 @@ export const posts: Post[] = [
       },
       {
         "t": "p",
-        "v": "The programme costs €120. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.org"
+        "v": "The programme costs €120. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.net"
       },
       {
         "t": "img",
@@ -4623,7 +4623,7 @@ export const posts: Post[] = [
       "Participants will have the added motivation of climbing into the Boxing Ring at the end of the 8 weeks for their first contest if they so wish.",
       "You will be trained and inspired by our team of top International and Olympic Coaches who will have you fighting fit in no time.",
       "The training sessions are twice weekly at the National Stadium Gym on the South Circular Road in Dublin 8 on Mondays and Wednesdays at 7pm",
-      "The programme costs €250 but discounts are available for former participants and groups. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.org for more information."
+      "The programme costs €250 but discounts are available for former participants and groups. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.net for more information."
     ],
     "image": null,
     "blocks": [
@@ -4645,7 +4645,7 @@ export const posts: Post[] = [
       },
       {
         "t": "p",
-        "v": "The programme costs €250 but discounts are available for former participants and groups. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.org for more information."
+        "v": "The programme costs €250 but discounts are available for former participants and groups. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.net for more information."
       },
       {
         "t": "img",
@@ -4824,11 +4824,11 @@ export const posts: Post[] = [
     "slug": "school-of-hard-knocks-4-april-2014",
     "title": "School of Hard Knocks - 4 April 2014",
     "date": "January 1, 2014",
-    "excerpt": "Whitecollarboxing.org are collaborating with Ratoath College Parents Association to bring you; 'School of Hard Knocks'. Parents Pupils and Past Pupils are pitched together in an epic boxing event in order to raise funds the future development of their local college. To be crowned champion, 30 brave men and women are putting it all on the […]",
+    "excerpt": "Whitecollarboxing.net are collaborating with Ratoath College Parents Association to bring you; 'School of Hard Knocks'. Parents Pupils and Past Pupils are pitched together in an epic boxing event in order to raise funds the future development of their local college. To be crowned champion, 30 brave men and women are putting it all on the […]",
     "paragraphs": [
-      "Whitecollarboxing.org are collaborating with Ratoath College Parents Association to bring you; 'School of Hard Knocks'. Parents Pupils and Past Pupils are pitched together in an epic boxing event in order to raise funds the future development of their local college.",
+      "Whitecollarboxing.net are collaborating with Ratoath College Parents Association to bring you; 'School of Hard Knocks'. Parents Pupils and Past Pupils are pitched together in an epic boxing event in order to raise funds the future development of their local college.",
       "To be crowned champion, 30 brave men and women are putting it all on the line and are currently undertaking an intensive 6 week training programme that will see them go from boxing amateur to pro when they get the ultimate opportunity to compete in a boxing ring on Friday 4th April in the Pillo Hotel Ashbourne Co. Meath.",
-      "Former Olympic Boxer, Cathal O'Grady of whitecollarboxing.org is overwhelmed by the enthusiasm and interest in this event. \"Ratoath College Parents Association are delighted with the generosity that has been shown them so far by local companies and individuals in support of the event.\" Brendan Newe, Chairperson of the Parents Association, says the committee are delighted with the reaction to date. \"So many local individuals and businesses are supporting this event by sponsoring participants, advertisements and fight bouts. RCPA would particularly like to acknowledge the support if their two main sponsors Des Kelly Interiors and The Auld Stand. All sponsors will be given exposure on the night with company name on screens and boxers wearing the name on vests as well as mentions from our MC on the night and in the event programme. If you are interested in sponsorship in the event please contact Bee Flanagan on 086 8094924 or Orla McNally on 087 1944549.",
+      "Former Olympic Boxer, Cathal O'Grady of whitecollarboxing.net is overwhelmed by the enthusiasm and interest in this event. \"Ratoath College Parents Association are delighted with the generosity that has been shown them so far by local companies and individuals in support of the event.\" Brendan Newe, Chairperson of the Parents Association, says the committee are delighted with the reaction to date. \"So many local individuals and businesses are supporting this event by sponsoring participants, advertisements and fight bouts. RCPA would particularly like to acknowledge the support if their two main sponsors Des Kelly Interiors and The Auld Stand. All sponsors will be given exposure on the night with company name on screens and boxers wearing the name on vests as well as mentions from our MC on the night and in the event programme. If you are interested in sponsorship in the event please contact Bee Flanagan on 086 8094924 or Orla McNally on 087 1944549.",
       "RCPA would like to acknowledge the support of Golden Gloves Boxing Club in the heart of the village who have facilitated training for contestants.",
       "Tickets for the event will be on sale in the college each afternoon from 3:15 pm or are available from any of the contestants.",
       "All the proceeds from this show will go towards the Ratoath College Parents Association college development fund in preparation for the building of the new extension"
@@ -4837,7 +4837,7 @@ export const posts: Post[] = [
     "blocks": [
       {
         "t": "p",
-        "v": "Whitecollarboxing.org are collaborating with Ratoath College Parents Association to bring you; 'School of Hard Knocks'. Parents Pupils and Past Pupils are pitched together in an epic boxing event in order to raise funds the future development of their local college."
+        "v": "Whitecollarboxing.net are collaborating with Ratoath College Parents Association to bring you; 'School of Hard Knocks'. Parents Pupils and Past Pupils are pitched together in an epic boxing event in order to raise funds the future development of their local college."
       },
       {
         "t": "p",
@@ -4845,7 +4845,7 @@ export const posts: Post[] = [
       },
       {
         "t": "p",
-        "v": "Former Olympic Boxer, Cathal O'Grady of whitecollarboxing.org is overwhelmed by the enthusiasm and interest in this event. \"Ratoath College Parents Association are delighted with the generosity that has been shown them so far by local companies and individuals in support of the event.\" Brendan Newe, Chairperson of the Parents Association, says the committee are delighted with the reaction to date. \"So many local individuals and businesses are supporting this event by sponsoring participants, advertisements and fight bouts. RCPA would particularly like to acknowledge the support if their two main sponsors Des Kelly Interiors and The Auld Stand. All sponsors will be given exposure on the night with company name on screens and boxers wearing the name on vests as well as mentions from our MC on the night and in the event programme. If you are interested in sponsorship in the event please contact Bee Flanagan on 086 8094924 or Orla McNally on 087 1944549."
+        "v": "Former Olympic Boxer, Cathal O'Grady of whitecollarboxing.net is overwhelmed by the enthusiasm and interest in this event. \"Ratoath College Parents Association are delighted with the generosity that has been shown them so far by local companies and individuals in support of the event.\" Brendan Newe, Chairperson of the Parents Association, says the committee are delighted with the reaction to date. \"So many local individuals and businesses are supporting this event by sponsoring participants, advertisements and fight bouts. RCPA would particularly like to acknowledge the support if their two main sponsors Des Kelly Interiors and The Auld Stand. All sponsors will be given exposure on the night with company name on screens and boxers wearing the name on vests as well as mentions from our MC on the night and in the event programme. If you are interested in sponsorship in the event please contact Bee Flanagan on 086 8094924 or Orla McNally on 087 1944549."
       },
       {
         "t": "p",
@@ -4890,13 +4890,13 @@ export const posts: Post[] = [
     "date": "December 31, 2013",
     "excerpt": "Kilkenny a battle is coming your way - who will win the Northern Knockout!?! The only way to find out who will triumph between St. Patricks Ballyragget and St. Lachtains Freshford is to get your tickets now!! The showdown will take place on 1st March at 7.30pm in the Newpark Hotel. Tickets only €20 and […]",
     "paragraphs": [
-      "Kilkenny a battle is coming your way - who will win the Northern Knockout!?! The only way to find out who will triumph between St. Patricks Ballyragget and St. Lachtains Freshford is to get your tickets now!! The showdown will take place on 1st March at 7.30pm in the Newpark Hotel. Tickets only €20 and can be purchased from both clubs. For more information please email info@whitecollarboxing.org"
+      "Kilkenny a battle is coming your way - who will win the Northern Knockout!?! The only way to find out who will triumph between St. Patricks Ballyragget and St. Lachtains Freshford is to get your tickets now!! The showdown will take place on 1st March at 7.30pm in the Newpark Hotel. Tickets only €20 and can be purchased from both clubs. For more information please email info@whitecollarboxing.net"
     ],
     "image": null,
     "blocks": [
       {
         "t": "p",
-        "v": "Kilkenny a battle is coming your way - who will win the Northern Knockout!?! The only way to find out who will triumph between St. Patricks Ballyragget and St. Lachtains Freshford is to get your tickets now!! The showdown will take place on 1st March at 7.30pm in the Newpark Hotel. Tickets only €20 and can be purchased from both clubs. For more information please email info@whitecollarboxing.org"
+        "v": "Kilkenny a battle is coming your way - who will win the Northern Knockout!?! The only way to find out who will triumph between St. Patricks Ballyragget and St. Lachtains Freshford is to get your tickets now!! The showdown will take place on 1st March at 7.30pm in the Newpark Hotel. Tickets only €20 and can be purchased from both clubs. For more information please email info@whitecollarboxing.net"
       },
       {
         "t": "img",
@@ -5046,13 +5046,13 @@ export const posts: Post[] = [
     "date": "December 26, 2013",
     "excerpt": "Rovers get ready to rrrrrrrrrumble! Arravale Rovers are taking on the Galtee Rovers in a titanic battle to be named club champions. The rival rovers are currently undergoing 6 weeks intensive training to prepare for climbing through the ring. Be there to witmess the Battle of the Rovers on the 22nd of March at 7pm […]",
     "paragraphs": [
-      "Rovers get ready to rrrrrrrrrumble! Arravale Rovers are taking on the Galtee Rovers in a titanic battle to be named club champions. The rival rovers are currently undergoing 6 weeks intensive training to prepare for climbing through the ring. Be there to witmess the Battle of the Rovers on the 22nd of March at 7pm in the Aherlow House Hotel. Tickets €20 and can be purchased from both clubs. For more information please email info@whitecollarboxing.org"
+      "Rovers get ready to rrrrrrrrrumble! Arravale Rovers are taking on the Galtee Rovers in a titanic battle to be named club champions. The rival rovers are currently undergoing 6 weeks intensive training to prepare for climbing through the ring. Be there to witmess the Battle of the Rovers on the 22nd of March at 7pm in the Aherlow House Hotel. Tickets €20 and can be purchased from both clubs. For more information please email info@whitecollarboxing.net"
     ],
     "image": null,
     "blocks": [
       {
         "t": "p",
-        "v": "Rovers get ready to rrrrrrrrrumble! Arravale Rovers are taking on the Galtee Rovers in a titanic battle to be named club champions. The rival rovers are currently undergoing 6 weeks intensive training to prepare for climbing through the ring. Be there to witmess the Battle of the Rovers on the 22nd of March at 7pm in the Aherlow House Hotel. Tickets €20 and can be purchased from both clubs. For more information please email info@whitecollarboxing.org"
+        "v": "Rovers get ready to rrrrrrrrrumble! Arravale Rovers are taking on the Galtee Rovers in a titanic battle to be named club champions. The rival rovers are currently undergoing 6 weeks intensive training to prepare for climbing through the ring. Be there to witmess the Battle of the Rovers on the 22nd of March at 7pm in the Aherlow House Hotel. Tickets €20 and can be purchased from both clubs. For more information please email info@whitecollarboxing.net"
       },
       {
         "t": "img",
@@ -5083,15 +5083,15 @@ export const posts: Post[] = [
     "slug": "rag-rumble-30-april-2014",
     "title": "RAG Rumble - 30 April 2014",
     "date": "December 24, 2013",
-    "excerpt": "St Patrick's College in association with whitecollarboxing.org presents the 'RAG RUMBLE' in Dandelion Nightclub at 9.30pm on Wednesday 30th April 2014. Punishment exacted will be like never before – so sit up straight and take notice as this show will be devastating! Who'll be saved by the bell?? Be there on the night to find […]",
+    "excerpt": "St Patrick's College in association with whitecollarboxing.net presents the 'RAG RUMBLE' in Dandelion Nightclub at 9.30pm on Wednesday 30th April 2014. Punishment exacted will be like never before – so sit up straight and take notice as this show will be devastating! Who'll be saved by the bell?? Be there on the night to find […]",
     "paragraphs": [
-      "St Patrick's College in association with whitecollarboxing.org presents the 'RAG RUMBLE' in Dandelion Nightclub at 9.30pm on Wednesday 30th April 2014. Punishment exacted will be like never before – so sit up straight and take notice as this show will be devastating! Who'll be saved by the bell?? Be there on the night to find out! Tickets are ONLY €8 and can be purchased from the SU Office or outside Java. Note: This is an over 18's event. I.D. will be required."
+      "St Patrick's College in association with whitecollarboxing.net presents the 'RAG RUMBLE' in Dandelion Nightclub at 9.30pm on Wednesday 30th April 2014. Punishment exacted will be like never before – so sit up straight and take notice as this show will be devastating! Who'll be saved by the bell?? Be there on the night to find out! Tickets are ONLY €8 and can be purchased from the SU Office or outside Java. Note: This is an over 18's event. I.D. will be required."
     ],
     "image": null,
     "blocks": [
       {
         "t": "p",
-        "v": "St Patrick's College in association with whitecollarboxing.org presents the 'RAG RUMBLE' in Dandelion Nightclub at 9.30pm on Wednesday 30th April 2014. Punishment exacted will be like never before – so sit up straight and take notice as this show will be devastating! Who'll be saved by the bell?? Be there on the night to find out! Tickets are ONLY €8 and can be purchased from the SU Office or outside Java. Note: This is an over 18's event. I.D. will be required."
+        "v": "St Patrick's College in association with whitecollarboxing.net presents the 'RAG RUMBLE' in Dandelion Nightclub at 9.30pm on Wednesday 30th April 2014. Punishment exacted will be like never before – so sit up straight and take notice as this show will be devastating! Who'll be saved by the bell?? Be there on the night to find out! Tickets are ONLY €8 and can be purchased from the SU Office or outside Java. Note: This is an over 18's event. I.D. will be required."
       },
       {
         "t": "img",
@@ -5232,7 +5232,7 @@ export const posts: Post[] = [
       "You will be trained and inspired by our team of top International and Olympic Coaches who will have you fighting fit in no time.",
       "The training sessions are four times weekly at the National Stadium Gym on the South Circular Road in Dublin 8 on Mondays and Wednesdays at 7pm and Tuesday and Thursday Mornings at 7am",
       "SIGN UP NOW",
-      "The programme costs €300 but discounts are available for former participants and groups. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.org for more information."
+      "The programme costs €300 but discounts are available for former participants and groups. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.net for more information."
     ],
     "image": null,
     "blocks": [
@@ -5258,7 +5258,7 @@ export const posts: Post[] = [
       },
       {
         "t": "p",
-        "v": "The programme costs €300 but discounts are available for former participants and groups. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.org for more information."
+        "v": "The programme costs €300 but discounts are available for former participants and groups. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.net for more information."
       },
       {
         "t": "img",
@@ -5290,7 +5290,7 @@ export const posts: Post[] = [
       "Feel like a \"Million Dollar Baby\" this year and join our ladies boxing class!",
       "Starting on Monday 9th of September this fun filled class will have you looking firm and fit in no time! The programme involves two weekly sessions (Mondays and Wednesdays at 8pm) over 6 weeks at the National Stadium Gym on the South Circular Road in Dublin.",
       "SIGN UP NOW",
-      "The programme costs €120. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.org"
+      "The programme costs €120. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.net"
     ],
     "image": null,
     "blocks": [
@@ -5308,7 +5308,7 @@ export const posts: Post[] = [
       },
       {
         "t": "p",
-        "v": "The programme costs €120. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.org"
+        "v": "The programme costs €120. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.net"
       },
       {
         "t": "img",
@@ -5386,13 +5386,13 @@ export const posts: Post[] = [
     "date": "May 10, 2013",
     "excerpt": "White Collar Boxing is proud to announce that we will be holding a Boxing Workshop with former Olympian and World Title contender Andy Lee on the 21st of May in the National Boxing Stadium from 7.30pm - 9pm. Taking you from amateur to pro with his top tips and individual advice - this is one […]",
     "paragraphs": [
-      "White Collar Boxing is proud to announce that we will be holding a Boxing Workshop with former Olympian and World Title contender Andy Lee on the 21st of May in the National Boxing Stadium from 7.30pm - 9pm. Taking you from amateur to pro with his top tips and individual advice - this is one not to be missed! He will hold an intense 1 hour boxing clinic followed by individual boxing technique advice and he will also be giving an insight into the boxing industry and his career to help all our budding boxers out there! The session costs €30 and to reserve your place please email info@whitecollarboxing.org or contact Cathal on 087-8526323"
+      "White Collar Boxing is proud to announce that we will be holding a Boxing Workshop with former Olympian and World Title contender Andy Lee on the 21st of May in the National Boxing Stadium from 7.30pm - 9pm. Taking you from amateur to pro with his top tips and individual advice - this is one not to be missed! He will hold an intense 1 hour boxing clinic followed by individual boxing technique advice and he will also be giving an insight into the boxing industry and his career to help all our budding boxers out there! The session costs €30 and to reserve your place please email info@whitecollarboxing.net or contact Cathal on 087-8526323"
     ],
     "image": null,
     "blocks": [
       {
         "t": "p",
-        "v": "White Collar Boxing is proud to announce that we will be holding a Boxing Workshop with former Olympian and World Title contender Andy Lee on the 21st of May in the National Boxing Stadium from 7.30pm - 9pm. Taking you from amateur to pro with his top tips and individual advice - this is one not to be missed! He will hold an intense 1 hour boxing clinic followed by individual boxing technique advice and he will also be giving an insight into the boxing industry and his career to help all our budding boxers out there! The session costs €30 and to reserve your place please email info@whitecollarboxing.org or contact Cathal on 087-8526323"
+        "v": "White Collar Boxing is proud to announce that we will be holding a Boxing Workshop with former Olympian and World Title contender Andy Lee on the 21st of May in the National Boxing Stadium from 7.30pm - 9pm. Taking you from amateur to pro with his top tips and individual advice - this is one not to be missed! He will hold an intense 1 hour boxing clinic followed by individual boxing technique advice and he will also be giving an insight into the boxing industry and his career to help all our budding boxers out there! The session costs €30 and to reserve your place please email info@whitecollarboxing.net or contact Cathal on 087-8526323"
       },
       {
         "t": "img",
@@ -5428,7 +5428,7 @@ export const posts: Post[] = [
       "Want to get fighting fit this summer!?! Our Rocky Road to Fitness Boxing Bootcamp is Back!!!",
       "The programme consists of 8 weeks intensive training by our International and Olympic Coaches in the National Boxing Stadium on the South Circular Road in Dublin. Starting on Monday the 24th of June, training is every Monday and Wednesday night at 7pm. There will be a mixture of indoor and outdoor training concentrating on boxing drills, technique and fitness.",
       "So fight the good fight this summer and join us on your rocky road to fitness. The programme costs €200 and includes 2 surprise adventure challenges and a nutrition talk by a top diet expert. Discounts are available for former participants and groups.",
-      "Sign up today by contacting Cathal on +353 87 8526323 or email info@whitecollarboxing.org or reserve your place online",
+      "Sign up today by contacting Cathal on +353 87 8526323 or email info@whitecollarboxing.net or reserve your place online",
       "Rocky IV: I guess what Im trying to say is, if I can change, and you can change, everybody can change"
     ],
     "image": null,
@@ -5447,7 +5447,7 @@ export const posts: Post[] = [
       },
       {
         "t": "p",
-        "v": "Sign up today by contacting Cathal on +353 87 8526323 or email info@whitecollarboxing.org or reserve your place online"
+        "v": "Sign up today by contacting Cathal on +353 87 8526323 or email info@whitecollarboxing.net or reserve your place online"
       },
       {
         "t": "p",
@@ -5582,13 +5582,13 @@ export const posts: Post[] = [
     "date": "May 2, 2013",
     "excerpt": "Get involved... Do It for Fun.. Do It for Fitness.. Do It for Charity... Do It to Fight Breast Cancer!! 30 Everyday Women have undertaken 6 weeks intensive training before they take to the Ring to Fight Against Breast Cancer! All In Aid Of Breast Cancer Ireland! This will be a fantastic night if entertainment […]",
     "paragraphs": [
-      "Get involved... Do It for Fun.. Do It for Fitness.. Do It for Charity... Do It to Fight Breast Cancer!! 30 Everyday Women have undertaken 6 weeks intensive training before they take to the Ring to Fight Against Breast Cancer! All In Aid Of Breast Cancer Ireland! This will be a fantastic night if entertainment with 30 all women fight 4 gorgeous Ring Boys and an Amazing special guest performance from Male Pole Performer Marcin Miller!! Plus Club 92 Night Club After. For more information please contact info@whitecollarboxing.org"
+      "Get involved... Do It for Fun.. Do It for Fitness.. Do It for Charity... Do It to Fight Breast Cancer!! 30 Everyday Women have undertaken 6 weeks intensive training before they take to the Ring to Fight Against Breast Cancer! All In Aid Of Breast Cancer Ireland! This will be a fantastic night if entertainment with 30 all women fight 4 gorgeous Ring Boys and an Amazing special guest performance from Male Pole Performer Marcin Miller!! Plus Club 92 Night Club After. For more information please contact info@whitecollarboxing.net"
     ],
     "image": "/images/featured/the-pink-punch-up-19-july-2013.jpg",
     "blocks": [
       {
         "t": "p",
-        "v": "Get involved... Do It for Fun.. Do It for Fitness.. Do It for Charity... Do It to Fight Breast Cancer!! 30 Everyday Women have undertaken 6 weeks intensive training before they take to the Ring to Fight Against Breast Cancer! All In Aid Of Breast Cancer Ireland! This will be a fantastic night if entertainment with 30 all women fight 4 gorgeous Ring Boys and an Amazing special guest performance from Male Pole Performer Marcin Miller!! Plus Club 92 Night Club After. For more information please contact info@whitecollarboxing.org"
+        "v": "Get involved... Do It for Fun.. Do It for Fitness.. Do It for Charity... Do It to Fight Breast Cancer!! 30 Everyday Women have undertaken 6 weeks intensive training before they take to the Ring to Fight Against Breast Cancer! All In Aid Of Breast Cancer Ireland! This will be a fantastic night if entertainment with 30 all women fight 4 gorgeous Ring Boys and an Amazing special guest performance from Male Pole Performer Marcin Miller!! Plus Club 92 Night Club After. For more information please contact info@whitecollarboxing.net"
       },
       {
         "t": "img",
@@ -5710,13 +5710,13 @@ export const posts: Post[] = [
     "date": "May 2, 2013",
     "excerpt": "A fight like no other is coming to Tipperary. 30 boxers are putting everything on the line to raise money in aid of Cancer Research. They fight for themselves, they fight for their loved ones, they fight to find a cure, they fight for life. If you would like to support this great event then […]",
     "paragraphs": [
-      "A fight like no other is coming to Tipperary. 30 boxers are putting everything on the line to raise money in aid of Cancer Research. They fight for themselves, they fight for their loved ones, they fight to find a cure, they fight for life. If you would like to support this great event then please purchase your tickets now for the Charity event of the year at the Ormonde Hotel on the 16th of August. Tickets cost €20 and doors open at 7.30pm for more information email info@whitecollarboxing.org"
+      "A fight like no other is coming to Tipperary. 30 boxers are putting everything on the line to raise money in aid of Cancer Research. They fight for themselves, they fight for their loved ones, they fight to find a cure, they fight for life. If you would like to support this great event then please purchase your tickets now for the Charity event of the year at the Ormonde Hotel on the 16th of August. Tickets cost €20 and doors open at 7.30pm for more information email info@whitecollarboxing.net"
     ],
     "image": null,
     "blocks": [
       {
         "t": "p",
-        "v": "A fight like no other is coming to Tipperary. 30 boxers are putting everything on the line to raise money in aid of Cancer Research. They fight for themselves, they fight for their loved ones, they fight to find a cure, they fight for life. If you would like to support this great event then please purchase your tickets now for the Charity event of the year at the Ormonde Hotel on the 16th of August. Tickets cost €20 and doors open at 7.30pm for more information email info@whitecollarboxing.org"
+        "v": "A fight like no other is coming to Tipperary. 30 boxers are putting everything on the line to raise money in aid of Cancer Research. They fight for themselves, they fight for their loved ones, they fight to find a cure, they fight for life. If you would like to support this great event then please purchase your tickets now for the Charity event of the year at the Ormonde Hotel on the 16th of August. Tickets cost €20 and doors open at 7.30pm for more information email info@whitecollarboxing.net"
       },
       {
         "t": "img",
@@ -5786,15 +5786,15 @@ export const posts: Post[] = [
     "slug": "tesco-time-5-october-2013",
     "title": "Tesco Time - 5 October 2013",
     "date": "May 1, 2013",
-    "excerpt": "The date is Saturday 5th of October, the location is Time Bar & Venue - the time Tesco Time!! This fight night organised by the staff of Tesco to raise money for Aware Charity promises to pack a punch. Tickets are €20 and include entry into the nightclub afterwards. For more details email info@whitecollarboxing.org",
+    "excerpt": "The date is Saturday 5th of October, the location is Time Bar & Venue - the time Tesco Time!! This fight night organised by the staff of Tesco to raise money for Aware Charity promises to pack a punch. Tickets are €20 and include entry into the nightclub afterwards. For more details email info@whitecollarboxing.net",
     "paragraphs": [
-      "The date is Saturday 5th of October, the location is Time Bar & Venue - the time Tesco Time!! This fight night organised by the staff of Tesco to raise money for Aware Charity promises to pack a punch. Tickets are €20 and include entry into the nightclub afterwards. For more details email info@whitecollarboxing.org"
+      "The date is Saturday 5th of October, the location is Time Bar & Venue - the time Tesco Time!! This fight night organised by the staff of Tesco to raise money for Aware Charity promises to pack a punch. Tickets are €20 and include entry into the nightclub afterwards. For more details email info@whitecollarboxing.net"
     ],
     "image": null,
     "blocks": [
       {
         "t": "p",
-        "v": "The date is Saturday 5th of October, the location is Time Bar & Venue - the time Tesco Time!! This fight night organised by the staff of Tesco to raise money for Aware Charity promises to pack a punch. Tickets are €20 and include entry into the nightclub afterwards. For more details email info@whitecollarboxing.org"
+        "v": "The date is Saturday 5th of October, the location is Time Bar & Venue - the time Tesco Time!! This fight night organised by the staff of Tesco to raise money for Aware Charity promises to pack a punch. Tickets are €20 and include entry into the nightclub afterwards. For more details email info@whitecollarboxing.net"
       },
       {
         "t": "img",
@@ -5980,7 +5980,7 @@ export const posts: Post[] = [
     "excerpt": "Dundalk get Ready to Rrrrrrrumble! Inniskeen Ladies GAA are climbing into the ring in a fight night like no other. The ladies are fighting to raise funds for the Carickmacross Cancer Society. The date is Saturday 9th November and the venue is the Oriel Park in Dundalk. Do you dare?? Show starts @ 8pm and […]",
     "paragraphs": [
       "Dundalk get Ready to Rrrrrrrumble! Inniskeen Ladies GAA are climbing into the ring in a fight night like no other. The ladies are fighting to raise funds for the Carickmacross Cancer Society.",
-      "The date is Saturday 9th November and the venue is the Oriel Park in Dundalk. Do you dare?? Show starts @ 8pm and doors open @ 7.15pm. Ticket are €10 and VIP tickets are €25 each. For more information email info@whitecollarboxing.org"
+      "The date is Saturday 9th November and the venue is the Oriel Park in Dundalk. Do you dare?? Show starts @ 8pm and doors open @ 7.15pm. Ticket are €10 and VIP tickets are €25 each. For more information email info@whitecollarboxing.net"
     ],
     "image": null,
     "blocks": [
@@ -5990,7 +5990,7 @@ export const posts: Post[] = [
       },
       {
         "t": "p",
-        "v": "The date is Saturday 9th November and the venue is the Oriel Park in Dundalk. Do you dare?? Show starts @ 8pm and doors open @ 7.15pm. Ticket are €10 and VIP tickets are €25 each. For more information email info@whitecollarboxing.org"
+        "v": "The date is Saturday 9th November and the venue is the Oriel Park in Dundalk. Do you dare?? Show starts @ 8pm and doors open @ 7.15pm. Ticket are €10 and VIP tickets are €25 each. For more information email info@whitecollarboxing.net"
       },
       {
         "t": "img",
@@ -6099,14 +6099,14 @@ export const posts: Post[] = [
     "slug": "armagh-geddon-23-nov-2013",
     "title": "Armagh-geddon - 23 November 2013",
     "date": "March 9, 2013",
-    "excerpt": "Armagh-geddon!! Co. Armagh companies are going head to head in battle in the biggest corporate event ever to hit the City Whitecollarboxing.org are collaborating with Philip White Tyres to bring you; 'Armagh-geddon, Company Battle'. Employees from local businesses and local sports personalities (Rugby, GAA) are pitched together in an epic boxing event in order to […]",
+    "excerpt": "Armagh-geddon!! Co. Armagh companies are going head to head in battle in the biggest corporate event ever to hit the City Whitecollarboxing.net are collaborating with Philip White Tyres to bring you; 'Armagh-geddon, Company Battle'. Employees from local businesses and local sports personalities (Rugby, GAA) are pitched together in an epic boxing event in order to […]",
     "paragraphs": [
       "Armagh-geddon!!",
       "Co. Armagh companies are going head to head in battle in the biggest corporate event ever to hit the City",
-      "Whitecollarboxing.org are collaborating with Philip White Tyres to bring you; 'Armagh-geddon, Company Battle'. Employees from local businesses and local sports personalities (Rugby, GAA) are pitched together in an epic boxing event in order to raise funds the Northern Ireland Children's Hospice.",
+      "Whitecollarboxing.net are collaborating with Philip White Tyres to bring you; 'Armagh-geddon, Company Battle'. Employees from local businesses and local sports personalities (Rugby, GAA) are pitched together in an epic boxing event in order to raise funds the Northern Ireland Children's Hospice.",
       "To celebrate this unique event a launch night in the Armagh City Hotel will be held where players will be weighed in and face each other for the first time before commencing training on TBC.",
       "To be crowned company champion, 24 brave men and women are putting it all on the line and are undertaking an intensive 6 week training programme that will see them go from boxing amateur to pro when they get the ultimate opportunity to compete in a boxing ring on Saturday 23rd November in the Armagh City Hotel at 7.30pm.",
-      "Former Olympic Boxer, Cathal O'Grady of whitecollarboxing.org is overwhelmed by the enthusiasm and interest in this event. Both clubs are delighted with the generosity that has been shown them so far by local companies and individuals in support of the event. Each participant needs an entry fee of £50 plus £200 sponsorship from the company. This will give your company 2 free tickets, 2 month exposure in the local papers running up to the event and great exposure on the night with company name on screens and boxers wearing the name on vests. If you are interested in sponsorship in the event please contact Liam White on +44 7725705418 or Philip White on +44 7808093333.",
+      "Former Olympic Boxer, Cathal O'Grady of whitecollarboxing.net is overwhelmed by the enthusiasm and interest in this event. Both clubs are delighted with the generosity that has been shown them so far by local companies and individuals in support of the event. Each participant needs an entry fee of £50 plus £200 sponsorship from the company. This will give your company 2 free tickets, 2 month exposure in the local papers running up to the event and great exposure on the night with company name on screens and boxers wearing the name on vests. If you are interested in sponsorship in the event please contact Liam White on +44 7725705418 or Philip White on +44 7808093333.",
       "All the proceeds from this show will go towards the Northern Ireland Children Hospice. Tickets are £20 stg or a ring side table of £300 for ten people with food can be purchased from the Armagh City Hotel."
     ],
     "image": null,
@@ -6121,7 +6121,7 @@ export const posts: Post[] = [
       },
       {
         "t": "p",
-        "v": "Whitecollarboxing.org are collaborating with Philip White Tyres to bring you; 'Armagh-geddon, Company Battle'. Employees from local businesses and local sports personalities (Rugby, GAA) are pitched together in an epic boxing event in order to raise funds the Northern Ireland Children's Hospice."
+        "v": "Whitecollarboxing.net are collaborating with Philip White Tyres to bring you; 'Armagh-geddon, Company Battle'. Employees from local businesses and local sports personalities (Rugby, GAA) are pitched together in an epic boxing event in order to raise funds the Northern Ireland Children's Hospice."
       },
       {
         "t": "p",
@@ -6133,7 +6133,7 @@ export const posts: Post[] = [
       },
       {
         "t": "p",
-        "v": "Former Olympic Boxer, Cathal O'Grady of whitecollarboxing.org is overwhelmed by the enthusiasm and interest in this event. Both clubs are delighted with the generosity that has been shown them so far by local companies and individuals in support of the event. Each participant needs an entry fee of £50 plus £200 sponsorship from the company. This will give your company 2 free tickets, 2 month exposure in the local papers running up to the event and great exposure on the night with company name on screens and boxers wearing the name on vests. If you are interested in sponsorship in the event please contact Liam White on +44 7725705418 or Philip White on +44 7808093333."
+        "v": "Former Olympic Boxer, Cathal O'Grady of whitecollarboxing.net is overwhelmed by the enthusiasm and interest in this event. Both clubs are delighted with the generosity that has been shown them so far by local companies and individuals in support of the event. Each participant needs an entry fee of £50 plus £200 sponsorship from the company. This will give your company 2 free tickets, 2 month exposure in the local papers running up to the event and great exposure on the night with company name on screens and boxers wearing the name on vests. If you are interested in sponsorship in the event please contact Liam White on +44 7725705418 or Philip White on +44 7808093333."
       },
       {
         "t": "p",
@@ -6170,13 +6170,13 @@ export const posts: Post[] = [
     "date": "March 9, 2013",
     "excerpt": "On Sunday 27th of October, employees from the Swords Pavillions are climbing in to the ring in the Wright Venue at 7.30pm to raise vital funds for the Jack & Jill Foundation. They need your support so please head along. Tickets only €20 and can be purchased from any of the participants and also on […]",
     "paragraphs": [
-      "On Sunday 27th of October, employees from the Swords Pavillions are climbing in to the ring in the Wright Venue at 7.30pm to raise vital funds for the Jack & Jill Foundation. They need your support so please head along. Tickets only €20 and can be purchased from any of the participants and also on the door. This not only gaurantees you entry into the fight but also into the spooktacular Halloween afterparty!! For more details please email info@whitecollarboxing.org"
+      "On Sunday 27th of October, employees from the Swords Pavillions are climbing in to the ring in the Wright Venue at 7.30pm to raise vital funds for the Jack & Jill Foundation. They need your support so please head along. Tickets only €20 and can be purchased from any of the participants and also on the door. This not only gaurantees you entry into the fight but also into the spooktacular Halloween afterparty!! For more details please email info@whitecollarboxing.net"
     ],
     "image": null,
     "blocks": [
       {
         "t": "p",
-        "v": "On Sunday 27th of October, employees from the Swords Pavillions are climbing in to the ring in the Wright Venue at 7.30pm to raise vital funds for the Jack & Jill Foundation. They need your support so please head along. Tickets only €20 and can be purchased from any of the participants and also on the door. This not only gaurantees you entry into the fight but also into the spooktacular Halloween afterparty!! For more details please email info@whitecollarboxing.org"
+        "v": "On Sunday 27th of October, employees from the Swords Pavillions are climbing in to the ring in the Wright Venue at 7.30pm to raise vital funds for the Jack & Jill Foundation. They need your support so please head along. Tickets only €20 and can be purchased from any of the participants and also on the door. This not only gaurantees you entry into the fight but also into the spooktacular Halloween afterparty!! For more details please email info@whitecollarboxing.net"
       },
       {
         "t": "img",
@@ -6378,7 +6378,7 @@ export const posts: Post[] = [
       "Participants will have the added motivation of climbing into the Boxing Ring at the end of the 8 weeks for their first contest",
       "You will be trained and inspired by our team of top International and Olympic Coaches who will have you fighting fit in no time.",
       "The training sessions are four times weekly at the National Stadium Gym on the South Circular Road in Dublin 8 on Mondays and Wednesdays at 7pm and Tuesday and Thursday Mornings at 7am",
-      "The programme costs €300 but discounts are available for former participants and groups. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.org for more information or sign up here"
+      "The programme costs €300 but discounts are available for former participants and groups. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.net for more information or sign up here"
     ],
     "image": null,
     "blocks": [
@@ -6400,7 +6400,7 @@ export const posts: Post[] = [
       },
       {
         "t": "p",
-        "v": "The programme costs €300 but discounts are available for former participants and groups. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.org for more information or sign up here"
+        "v": "The programme costs €300 but discounts are available for former participants and groups. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.net for more information or sign up here"
       },
       {
         "t": "img",
@@ -6435,7 +6435,7 @@ export const posts: Post[] = [
     "paragraphs": [
       "Feel like a \"Million Dollar Baby\" this year and join our ladies boxing class!",
       "Starting on Monday 15th of April, this fun filled class will have you looking firm and fit in no time! The programme involves two weekly sessions (Mondays and Wednesdays at 8pm) over 6 weeks at the National Stadium Gym on the South Circular Road in Dublin.",
-      "The programme costs €120. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.org. Sign up Here... Or find us on Facebook:www.facebook.com/whitecollarboxing"
+      "The programme costs €120. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.net. Sign up Here... Or find us on Facebook:www.facebook.com/whitecollarboxing"
     ],
     "image": null,
     "blocks": [
@@ -6449,7 +6449,7 @@ export const posts: Post[] = [
       },
       {
         "t": "p",
-        "v": "The programme costs €120. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.org. Sign up Here... Or find us on Facebook:www.facebook.com/whitecollarboxing"
+        "v": "The programme costs €120. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.net. Sign up Here... Or find us on Facebook:www.facebook.com/whitecollarboxing"
       },
       {
         "t": "img",
@@ -6478,13 +6478,13 @@ export const posts: Post[] = [
     "date": "February 15, 2013",
     "excerpt": "Advanced Boxing with Nicolas Cruz! To take part in this exciting course with the Master of Boxing himself you need to have a good foundation in boxing. Throughout the course Nicholas will identify your strengths and weaknesses and work with you to make you a better boxer.He will also be concentrating on advance combinations, padwork […]",
     "paragraphs": [
-      "Advanced Boxing with Nicolas Cruz! To take part in this exciting course with the Master of Boxing himself you need to have a good foundation in boxing. Throughout the course Nicholas will identify your strengths and weaknesses and work with you to make you a better boxer.He will also be concentrating on advance combinations, padwork and technique. Class is every Tuesday evening at 8.30pm in the National Boxing Stadium commencing on March 12th. Email info@whitecollarboxing.org to register your interest now!! Classes are once a week for 8 weeks at €120. Sign Up Here"
+      "Advanced Boxing with Nicolas Cruz! To take part in this exciting course with the Master of Boxing himself you need to have a good foundation in boxing. Throughout the course Nicholas will identify your strengths and weaknesses and work with you to make you a better boxer.He will also be concentrating on advance combinations, padwork and technique. Class is every Tuesday evening at 8.30pm in the National Boxing Stadium commencing on March 12th. Email info@whitecollarboxing.net to register your interest now!! Classes are once a week for 8 weeks at €120. Sign Up Here"
     ],
     "image": null,
     "blocks": [
       {
         "t": "p",
-        "v": "Advanced Boxing with Nicolas Cruz! To take part in this exciting course with the Master of Boxing himself you need to have a good foundation in boxing. Throughout the course Nicholas will identify your strengths and weaknesses and work with you to make you a better boxer.He will also be concentrating on advance combinations, padwork and technique. Class is every Tuesday evening at 8.30pm in the National Boxing Stadium commencing on March 12th. Email info@whitecollarboxing.org to register your interest now!! Classes are once a week for 8 weeks at €120. Sign Up Here"
+        "v": "Advanced Boxing with Nicolas Cruz! To take part in this exciting course with the Master of Boxing himself you need to have a good foundation in boxing. Throughout the course Nicholas will identify your strengths and weaknesses and work with you to make you a better boxer.He will also be concentrating on advance combinations, padwork and technique. Class is every Tuesday evening at 8.30pm in the National Boxing Stadium commencing on March 12th. Email info@whitecollarboxing.net to register your interest now!! Classes are once a week for 8 weeks at €120. Sign Up Here"
       },
       {
         "t": "img",
@@ -6513,14 +6513,14 @@ export const posts: Post[] = [
     "date": "February 15, 2013",
     "excerpt": "NEW Ashtanga Yoga with Nicolas Cruz! This dynamic form of Yoga works to strengthen and realign the body and is the perfect accompaniment for boxing. Working on your core and balance. Also known as power yoga, this form of yoga is a whole body workout, focusing on flexibility, toning, strength building, and functional movements and […]",
     "paragraphs": [
-      "NEW Ashtanga Yoga with Nicolas Cruz! This dynamic form of Yoga works to strengthen and realign the body and is the perfect accompaniment for boxing. Working on your core and balance. Also known as power yoga, this form of yoga is a whole body workout, focusing on flexibility, toning, strength building, and functional movements and also elicits properties of what a good cardio session can do.Class is every Thursday evening at 8.30pm in the National Boxing Stadium commencing on March 14th. Email info@whitecollarboxing.org to register your interest now!! Class is once a week for 8 weeks at €120 Sign Up Here",
+      "NEW Ashtanga Yoga with Nicolas Cruz! This dynamic form of Yoga works to strengthen and realign the body and is the perfect accompaniment for boxing. Working on your core and balance. Also known as power yoga, this form of yoga is a whole body workout, focusing on flexibility, toning, strength building, and functional movements and also elicits properties of what a good cardio session can do.Class is every Thursday evening at 8.30pm in the National Boxing Stadium commencing on March 14th. Email info@whitecollarboxing.net to register your interest now!! Class is once a week for 8 weeks at €120 Sign Up Here",
       "/*"
     ],
     "image": null,
     "blocks": [
       {
         "t": "p",
-        "v": "NEW Ashtanga Yoga with Nicolas Cruz! This dynamic form of Yoga works to strengthen and realign the body and is the perfect accompaniment for boxing. Working on your core and balance. Also known as power yoga, this form of yoga is a whole body workout, focusing on flexibility, toning, strength building, and functional movements and also elicits properties of what a good cardio session can do.Class is every Thursday evening at 8.30pm in the National Boxing Stadium commencing on March 14th. Email info@whitecollarboxing.org to register your interest now!! Class is once a week for 8 weeks at €120 Sign Up Here"
+        "v": "NEW Ashtanga Yoga with Nicolas Cruz! This dynamic form of Yoga works to strengthen and realign the body and is the perfect accompaniment for boxing. Working on your core and balance. Also known as power yoga, this form of yoga is a whole body workout, focusing on flexibility, toning, strength building, and functional movements and also elicits properties of what a good cardio session can do.Class is every Thursday evening at 8.30pm in the National Boxing Stadium commencing on March 14th. Email info@whitecollarboxing.net to register your interest now!! Class is once a week for 8 weeks at €120 Sign Up Here"
       },
       {
         "t": "img",
@@ -6560,12 +6560,12 @@ export const posts: Post[] = [
     "slug": "the-clash-without-the-ash-15th-february-2013",
     "title": "The Clash Without the Ash - 15th February 2013",
     "date": "January 5, 2013",
-    "excerpt": "The Night - 15th of February, 2013 The Venue - The Templemore Arms Hotel The Event - JK Brackens vs Loughmore/Castleiney 15 vs 15 in single combat in the most anticpated clash ever between these two clubs. Get your tickets now! Contact info@whitecollarboxing.org for more info",
+    "excerpt": "The Night - 15th of February, 2013 The Venue - The Templemore Arms Hotel The Event - JK Brackens vs Loughmore/Castleiney 15 vs 15 in single combat in the most anticpated clash ever between these two clubs. Get your tickets now! Contact info@whitecollarboxing.net for more info",
     "paragraphs": [
       "The Night - 15th of February, 2013",
       "The Venue - The Templemore Arms Hotel",
       "The Event - JK Brackens vs Loughmore/Castleiney 15 vs 15 in single combat in the most anticpated clash ever between these two clubs.",
-      "Get your tickets now! Contact info@whitecollarboxing.org for more info"
+      "Get your tickets now! Contact info@whitecollarboxing.net for more info"
     ],
     "image": null,
     "blocks": [
@@ -6583,7 +6583,7 @@ export const posts: Post[] = [
       },
       {
         "t": "p",
-        "v": "Get your tickets now! Contact info@whitecollarboxing.org for more info"
+        "v": "Get your tickets now! Contact info@whitecollarboxing.net for more info"
       },
       {
         "t": "img",
@@ -6617,7 +6617,7 @@ export const posts: Post[] = [
     "excerpt": "The Ballroom Bust Up , 16th February 2013 Knockvilla Kickhams are taking on Clonoulty Rossmore in a battle of the titans that Tipperary hasnt seen before. Both clubs are exchanging hurls for boxing gloves as players climb into the ring for the first time to raise funds for their clubs. The Bust Up will bring […]",
     "paragraphs": [
       "The Ballroom Bust Up , 16th February 2013",
-      "Knockvilla Kickhams are taking on Clonoulty Rossmore in a battle of the titans that Tipperary hasnt seen before. Both clubs are exchanging hurls for boxing gloves as players climb into the ring for the first time to raise funds for their clubs. The Bust Up will bring the Ballroom down so if you want to witness the fight night of the county then get your tickets now admission €20 to the Dundrum House Hotel at 7.30pm. Contact info@whitecollarboxing.org for more information"
+      "Knockvilla Kickhams are taking on Clonoulty Rossmore in a battle of the titans that Tipperary hasnt seen before. Both clubs are exchanging hurls for boxing gloves as players climb into the ring for the first time to raise funds for their clubs. The Bust Up will bring the Ballroom down so if you want to witness the fight night of the county then get your tickets now admission €20 to the Dundrum House Hotel at 7.30pm. Contact info@whitecollarboxing.net for more information"
     ],
     "image": null,
     "blocks": [
@@ -6627,7 +6627,7 @@ export const posts: Post[] = [
       },
       {
         "t": "p",
-        "v": "Knockvilla Kickhams are taking on Clonoulty Rossmore in a battle of the titans that Tipperary hasnt seen before. Both clubs are exchanging hurls for boxing gloves as players climb into the ring for the first time to raise funds for their clubs. The Bust Up will bring the Ballroom down so if you want to witness the fight night of the county then get your tickets now admission €20 to the Dundrum House Hotel at 7.30pm. Contact info@whitecollarboxing.org for more information"
+        "v": "Knockvilla Kickhams are taking on Clonoulty Rossmore in a battle of the titans that Tipperary hasnt seen before. Both clubs are exchanging hurls for boxing gloves as players climb into the ring for the first time to raise funds for their clubs. The Bust Up will bring the Ballroom down so if you want to witness the fight night of the county then get your tickets now admission €20 to the Dundrum House Hotel at 7.30pm. Contact info@whitecollarboxing.net for more information"
       },
       {
         "t": "img",
@@ -6660,16 +6660,16 @@ export const posts: Post[] = [
     "date": "January 4, 2013",
     "excerpt": "Due to unprecedented demand for our 7pm class we now have an extra mixed class running at 8pm!!! Limited time for sign up ,so if you are interested in training in the home of the Irish Olympians and getting your chance to climb into the boxing ring for your very own fight night then email […]",
     "paragraphs": [
-      "Due to unprecedented demand for our 7pm class we now have an extra mixed class running at 8pm!!! Limited time for sign up ,so if you are interested in training in the home of the Irish Olympians and getting your chance to climb into the boxing ring for your very own fight night then email info@whitecollarboxing.org NOW!!!!!",
+      "Due to unprecedented demand for our 7pm class we now have an extra mixed class running at 8pm!!! Limited time for sign up ,so if you are interested in training in the home of the Irish Olympians and getting your chance to climb into the boxing ring for your very own fight night then email info@whitecollarboxing.net NOW!!!!!",
       "This is also an 8 week mixed training programme starting on the 14th of January that puts particular emphasis on conditioning and weight loss. You will be trained and inspired by our team of top International and Olympic Coaches who will have you fighting fit in no time.",
       "The training sessions are four times weekly at the National Stadium Gym on the South Circular Road in Dublin 8 on Mondays and Wednesdays at 8pm and Tuesday and Thursday Mornings at 7am. The programme costs €300 but discounts are available for former participants and groups.",
-      "For more information phone Cathal on (087) 8526323 or email info@whitecollarboxing.org"
+      "For more information phone Cathal on (087) 8526323 or email info@whitecollarboxing.net"
     ],
     "image": null,
     "blocks": [
       {
         "t": "p",
-        "v": "Due to unprecedented demand for our 7pm class we now have an extra mixed class running at 8pm!!! Limited time for sign up ,so if you are interested in training in the home of the Irish Olympians and getting your chance to climb into the boxing ring for your very own fight night then email info@whitecollarboxing.org NOW!!!!!"
+        "v": "Due to unprecedented demand for our 7pm class we now have an extra mixed class running at 8pm!!! Limited time for sign up ,so if you are interested in training in the home of the Irish Olympians and getting your chance to climb into the boxing ring for your very own fight night then email info@whitecollarboxing.net NOW!!!!!"
       },
       {
         "t": "p",
@@ -6681,7 +6681,7 @@ export const posts: Post[] = [
       },
       {
         "t": "p",
-        "v": "For more information phone Cathal on (087) 8526323 or email info@whitecollarboxing.org"
+        "v": "For more information phone Cathal on (087) 8526323 or email info@whitecollarboxing.net"
       },
       {
         "t": "img",
@@ -6716,7 +6716,7 @@ export const posts: Post[] = [
     "paragraphs": [
       "The ISPCC re looking for 30 contenders (men and women) in Dublin and Cork to put themselves forward for an ultimate challenge in aid of ISPC - no previous experience needed and will suit people of all athletic ability.",
       "'Panic at the Disco' is a six week training programme of white collar boxing which will culminate in two main events in Dublin and Cork - Final event to take place in Dandelion Nightclub, St Stephen's Green in Dublin and the Savoy Nightclub in Cork - hence the 'Panic at the Disco'!",
-      "ISPCC white collar boxing has some of the best trainers in the business, with Olympic athlete Cathal O'Grady at the forefront! www.whitecollarboxing.org",
+      "ISPCC white collar boxing has some of the best trainers in the business, with Olympic athlete Cathal O'Grady at the forefront! www.whitecollarboxing.net",
       "At the main events there will be 15 fights in total. You will be paired with a fellow boxer of equal strength and agility for your fight. Once you step into the ring, you will never forget the sheer adrenaline that pumps through your veins and the electric atmosphere that fills the room.",
       "Each fighter will be asked to sell 20 tickets at a cost of €25 per ticket during the training period. Tickets will cover entry to event and nightclub till close.",
       "Each fighter will also be asked to pay a deposit of €50 before training commences to secure your place.",
@@ -6737,7 +6737,7 @@ export const posts: Post[] = [
       },
       {
         "t": "p",
-        "v": "ISPCC white collar boxing has some of the best trainers in the business, with Olympic athlete Cathal O'Grady at the forefront! www.whitecollarboxing.org"
+        "v": "ISPCC white collar boxing has some of the best trainers in the business, with Olympic athlete Cathal O'Grady at the forefront! www.whitecollarboxing.net"
       },
       {
         "t": "p",
@@ -6800,7 +6800,7 @@ export const posts: Post[] = [
     "paragraphs": [
       "The ISPCC re looking for 30 contenders (men and women) in Dublin and Cork to put themselves forward for an ultimate challenge in aid of ISPC - no previous experience needed and will suit people of all athletic ability.",
       "'Panic at the Disco' is a six week training programme of white collar boxing which will culminate in two main events in Dublin and Cork - Final event to take place in Dandelion Nightclub, St Stephen's Green in Dublin and the Savoy Nightclub in Cork - hence the 'Panic at the Disco'!",
-      "ISPCC white collar boxing has some of the best trainers in the business, with Olympic athlete Cathal O'Grady at the forefront! www.whitecollarboxing.org",
+      "ISPCC white collar boxing has some of the best trainers in the business, with Olympic athlete Cathal O'Grady at the forefront! www.whitecollarboxing.net",
       "At the main events there will be 15 fights in total. You will be paired with a fellow boxer of equal strength and agility for your fight. Once you step into the ring, you will never forget the sheer adrenaline that pumps through your veins and the electric atmosphere that fills the room.",
       "Each fighter will be asked to sell 20 tickets at a cost of €25 per ticket during the training period. Tickets will cover entry to event and nightclub till close.",
       "Each fighter will also be asked to pay a deposit of €50 before training commences to secure your place.",
@@ -6821,7 +6821,7 @@ export const posts: Post[] = [
       },
       {
         "t": "p",
-        "v": "ISPCC white collar boxing has some of the best trainers in the business, with Olympic athlete Cathal O'Grady at the forefront! www.whitecollarboxing.org"
+        "v": "ISPCC white collar boxing has some of the best trainers in the business, with Olympic athlete Cathal O'Grady at the forefront! www.whitecollarboxing.net"
       },
       {
         "t": "p",
@@ -6930,12 +6930,12 @@ export const posts: Post[] = [
       "Participants will have the added motivation of climbing into the Boxing Ring at the end of the 8 weeks for their first contest",
       "You will be trained and inspired by our team of top International and Olympic Coaches who will have you fighting fit in no time.",
       "The training sessions are four times weekly at the National Stadium Gym on the South Circular Road in Dublin 8 on Mondays and Wednesdays at 7pm and Tuesday and Thursday Mornings at 7am",
-      "The programme costs €300 but discounts are available for former participants and groups. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.org for more information",
+      "The programme costs €300 but discounts are available for former participants and groups. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.net for more information",
       "We are also running a ladies boxing class in January... see details here",
       "Fill out this quick enquiry form and we will get back to you about booking your place!",
       "If you see this message, leave this next form field blank.",
       "Or for further info call Cathal on on 087 8526323 or visit us on Facebook for all the latest updates.",
-      "For more information contact Cathal on +353 87 8526323 or email info@whitecollarboxing.org. or check us out on Facebook: www.facebook.com/whitecollarboxing"
+      "For more information contact Cathal on +353 87 8526323 or email info@whitecollarboxing.net. or check us out on Facebook: www.facebook.com/whitecollarboxing"
     ],
     "image": null,
     "blocks": [
@@ -6957,7 +6957,7 @@ export const posts: Post[] = [
       },
       {
         "t": "p",
-        "v": "The programme costs €300 but discounts are available for former participants and groups. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.org for more information"
+        "v": "The programme costs €300 but discounts are available for former participants and groups. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.net for more information"
       },
       {
         "t": "p",
@@ -6982,7 +6982,7 @@ export const posts: Post[] = [
       },
       {
         "t": "p",
-        "v": "For more information contact Cathal on +353 87 8526323 or email info@whitecollarboxing.org. or check us out on Facebook: www.facebook.com/whitecollarboxing"
+        "v": "For more information contact Cathal on +353 87 8526323 or email info@whitecollarboxing.net. or check us out on Facebook: www.facebook.com/whitecollarboxing"
       }
     ],
     "postedIn": [
@@ -7010,16 +7010,16 @@ export const posts: Post[] = [
     "date": "May 25, 2012",
     "excerpt": "Due to unprecedented demand fpr our 7pm class we now have an extra mixed class running at 8pm!!! Limited time for sign up ,so if you are interested in training in the home of the Irish Olympians and getting your chance to climb into the boxing ring for your very own fight night then email […]",
     "paragraphs": [
-      "Due to unprecedented demand fpr our 7pm class we now have an extra mixed class running at 8pm!!! Limited time for sign up ,so if you are interested in training in the home of the Irish Olympians and getting your chance to climb into the boxing ring for your very own fight night then email info@whitecollarboxing.org NOW!!!!!",
+      "Due to unprecedented demand fpr our 7pm class we now have an extra mixed class running at 8pm!!! Limited time for sign up ,so if you are interested in training in the home of the Irish Olympians and getting your chance to climb into the boxing ring for your very own fight night then email info@whitecollarboxing.net NOW!!!!!",
       "This is also an 8 week mixed training programme that puts particular emphasis on conditioning and weight loss. You will be trained and inspired by our team of top International and Olympic Coaches who will have you fighting fit in no time.",
       "The training sessions are four times weekly at the National Stadium Gym on the South Circular Road in Dublin 8 on Mondays and Wednesdays at 8pm and Tuesday and Thursday Mornings at 7am. The programme costs €300 but discounts are available for former participants and groups.",
-      "For more information phone Cathal on (087) 8526323 or email info@whitecollarboxing.org"
+      "For more information phone Cathal on (087) 8526323 or email info@whitecollarboxing.net"
     ],
     "image": null,
     "blocks": [
       {
         "t": "p",
-        "v": "Due to unprecedented demand fpr our 7pm class we now have an extra mixed class running at 8pm!!! Limited time for sign up ,so if you are interested in training in the home of the Irish Olympians and getting your chance to climb into the boxing ring for your very own fight night then email info@whitecollarboxing.org NOW!!!!!"
+        "v": "Due to unprecedented demand fpr our 7pm class we now have an extra mixed class running at 8pm!!! Limited time for sign up ,so if you are interested in training in the home of the Irish Olympians and getting your chance to climb into the boxing ring for your very own fight night then email info@whitecollarboxing.net NOW!!!!!"
       },
       {
         "t": "p",
@@ -7031,7 +7031,7 @@ export const posts: Post[] = [
       },
       {
         "t": "p",
-        "v": "For more information phone Cathal on (087) 8526323 or email info@whitecollarboxing.org"
+        "v": "For more information phone Cathal on (087) 8526323 or email info@whitecollarboxing.net"
       }
     ],
     "postedIn": [
@@ -7063,7 +7063,7 @@ export const posts: Post[] = [
       "Participants will have the added motivation of climbing into the Boxing Ring at the end of the 8 weeks for their first contest",
       "You will be trained and inspired by our team of top International and Olympic Coaches who will have you fighting fit in no time.",
       "The training sessions are four times weekly at the National Stadium Gym on the South Circular Road in Dublin 8 on Mondays and Wednesdays at 7pm and Tuesday and Thursday Mornings at 7am",
-      "The programme costs €300 but discounts are available for former participants and groups. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.org for more information."
+      "The programme costs €300 but discounts are available for former participants and groups. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.net for more information."
     ],
     "image": null,
     "blocks": [
@@ -7085,7 +7085,7 @@ export const posts: Post[] = [
       },
       {
         "t": "p",
-        "v": "The programme costs €300 but discounts are available for former participants and groups. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.org for more information."
+        "v": "The programme costs €300 but discounts are available for former participants and groups. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.net for more information."
       }
     ],
     "postedIn": [
@@ -7115,7 +7115,7 @@ export const posts: Post[] = [
     "paragraphs": [
       "Feel like a \"Million Dollar Baby\" this year and join our ladies boxing class!",
       "Starting on Monday 10th September, this fun filled class will have you looking firm and fit in no time! The programme involves two weekly sessions (Mondays and Wednesdays at 8pm) over 6 weeks at the National Stadium Gym on the South Circular Road in Dublin.",
-      "The programme costs €120 and includes free handwraps. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.org. Or find us out on Facebook: www.facebook.com/whitecollarboxing"
+      "The programme costs €120 and includes free handwraps. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.net. Or find us out on Facebook: www.facebook.com/whitecollarboxing"
     ],
     "image": null,
     "blocks": [
@@ -7129,7 +7129,7 @@ export const posts: Post[] = [
       },
       {
         "t": "p",
-        "v": "The programme costs €120 and includes free handwraps. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.org. Or find us out on Facebook: www.facebook.com/whitecollarboxing"
+        "v": "The programme costs €120 and includes free handwraps. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.net. Or find us out on Facebook: www.facebook.com/whitecollarboxing"
       },
       {
         "t": "img",
@@ -7206,11 +7206,11 @@ export const posts: Post[] = [
       "Feel like a \"Million Dollar Baby\" this year and join our ladies boxing class!",
       "Starting on Monday 14th January, this fun filled class will have you looking firm and fit in no time! The programme involves two weekly sessions (Mondays and Wednesdays at 8pm) over 6 weeks at the National Stadium Gym on the South Circular Road in Dublin.",
       "We are also running a mixed boxing class in January... see details here",
-      "The programme costs €120. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.org. Or find us out on Facebook:www.facebook.com/whitecollarboxing",
+      "The programme costs €120. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.net. Or find us out on Facebook:www.facebook.com/whitecollarboxing",
       "Fill out this quick enquiry form and we will get back to you about booking your place!",
       "If you see this message, leave this next form field blank.",
       "Or for further info call Cathal on on 087 8526323 or visit us on Facebook for all the latest updates.",
-      "For more information contact Cathal on +353 87 8526323 or email info@whitecollarboxing.org. or check us out on Facebook: www.facebook.com/whitecollarboxing"
+      "For more information contact Cathal on +353 87 8526323 or email info@whitecollarboxing.net. or check us out on Facebook: www.facebook.com/whitecollarboxing"
     ],
     "image": null,
     "blocks": [
@@ -7228,7 +7228,7 @@ export const posts: Post[] = [
       },
       {
         "t": "p",
-        "v": "The programme costs €120. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.org. Or find us out on Facebook:www.facebook.com/whitecollarboxing"
+        "v": "The programme costs €120. Contact Cathal on +353 87 8526323 or email info@whitecollarboxing.net. Or find us out on Facebook:www.facebook.com/whitecollarboxing"
       },
       {
         "t": "img",
@@ -7249,7 +7249,7 @@ export const posts: Post[] = [
       },
       {
         "t": "p",
-        "v": "For more information contact Cathal on +353 87 8526323 or email info@whitecollarboxing.org. or check us out on Facebook: www.facebook.com/whitecollarboxing"
+        "v": "For more information contact Cathal on +353 87 8526323 or email info@whitecollarboxing.net. or check us out on Facebook: www.facebook.com/whitecollarboxing"
       }
     ],
     "postedIn": [
@@ -7275,8 +7275,8 @@ export const posts: Post[] = [
     "paragraphs": [
       "Feel like a \"Million Dollar Baby\" in the New Year. Our ladies boxing class starts on Monday 23rd of January",
       "The fun filled programme involves two weekly sessions (Mondays and Wednesdays at 8pm) over 6 weeks at the National Stadium Gym on the South Circular Road in Dublin.",
-      "The programme costs €120 and includes handwraps and a whitecollarboxing.org T shirt.",
-      "To book contact Cathal on +353 87 8526323 or email info@whitecollarboxing.org. or check us out on Facebook: www.facebook.com/whitecollarboxing."
+      "The programme costs €120 and includes handwraps and a whitecollarboxing.net T shirt.",
+      "To book contact Cathal on +353 87 8526323 or email info@whitecollarboxing.net. or check us out on Facebook: www.facebook.com/whitecollarboxing."
     ],
     "image": null,
     "blocks": [
@@ -7290,11 +7290,11 @@ export const posts: Post[] = [
       },
       {
         "t": "p",
-        "v": "The programme costs €120 and includes handwraps and a whitecollarboxing.org T shirt."
+        "v": "The programme costs €120 and includes handwraps and a whitecollarboxing.net T shirt."
       },
       {
         "t": "p",
-        "v": "To book contact Cathal on +353 87 8526323 or email info@whitecollarboxing.org. or check us out on Facebook: www.facebook.com/whitecollarboxing."
+        "v": "To book contact Cathal on +353 87 8526323 or email info@whitecollarboxing.net. or check us out on Facebook: www.facebook.com/whitecollarboxing."
       }
     ],
     "postedIn": [
@@ -7324,7 +7324,7 @@ export const posts: Post[] = [
       "You will be trained and inspired by our team of top International and Olympic Coaches who will have you fighting fit in no time.",
       "The training sessions are four times weekly at the National Stadium Gym on the South Circular Road in Dublin 8 on Mondays and Wednesdays at 7pm and Tuesday and Thursday Mornings at 7am",
       "The programme costs €300 but group discounts are available.",
-      "To book contact Cathal on +353 87 8526323 or email info@whitecollarboxing.org. or check us out on Facebook: www.facebook.com/whitecollarboxing."
+      "To book contact Cathal on +353 87 8526323 or email info@whitecollarboxing.net. or check us out on Facebook: www.facebook.com/whitecollarboxing."
     ],
     "image": null,
     "blocks": [
@@ -7354,7 +7354,7 @@ export const posts: Post[] = [
       },
       {
         "t": "p",
-        "v": "To book contact Cathal on +353 87 8526323 or email info@whitecollarboxing.org. or check us out on Facebook: www.facebook.com/whitecollarboxing."
+        "v": "To book contact Cathal on +353 87 8526323 or email info@whitecollarboxing.net. or check us out on Facebook: www.facebook.com/whitecollarboxing."
       }
     ],
     "postedIn": [
@@ -7384,7 +7384,7 @@ export const posts: Post[] = [
       "You will be trained and inspired by our team of top International and Olympic Coaches who will have you fighting fit in no time.",
       "The training sessions are four times weekly at the National Stadium Gym on the South Circular Road in Dublin 8 on Mondays and Wednesdays at 7pm and Tuesday and Thursday Mornings at 7am",
       "The programme costs €300 but group discounts are available.",
-      "To book contact Cathal on +353 87 8526323 or email info@whitecollarboxing.org. or check us out on Facebook: www.facebook.com/whitecollarboxing."
+      "To book contact Cathal on +353 87 8526323 or email info@whitecollarboxing.net. or check us out on Facebook: www.facebook.com/whitecollarboxing."
     ],
     "image": null,
     "blocks": [
@@ -7414,7 +7414,7 @@ export const posts: Post[] = [
       },
       {
         "t": "p",
-        "v": "To book contact Cathal on +353 87 8526323 or email info@whitecollarboxing.org. or check us out on Facebook: www.facebook.com/whitecollarboxing."
+        "v": "To book contact Cathal on +353 87 8526323 or email info@whitecollarboxing.net. or check us out on Facebook: www.facebook.com/whitecollarboxing."
       }
     ],
     "postedIn": [
@@ -7445,12 +7445,12 @@ export const posts: Post[] = [
       "You will be trained and inspired by our team of top International and Olympic Coaches who will have you fighting fit in no time.",
       "The training sessions are four times weekly at the National Stadium Gym on the South Circular Road in Dublin 8 on Mondays and Wednesdays at 7pm and Tuesday and Thursday Mornings at 7am",
       "The programme costs €300 but group discounts are available.",
-      "To book contact Cathal on +353 87 8526323 or email info@whitecollarboxing.org. or check us out on Facebook: www.facebook.com/whitecollarboxing.",
+      "To book contact Cathal on +353 87 8526323 or email info@whitecollarboxing.net. or check us out on Facebook: www.facebook.com/whitecollarboxing.",
       "Ladies Boxing Classes",
       "Feel like a \"Million Dollar Baby\" in the New Year. Our ladies boxing class starts on Monday 23rd of January",
       "The fun filled programme involves two weekly sessions (Mondays and Wednesdays at 8pm) over 6 weeks at the National Stadium Gym on the South Circular Road in Dublin.",
-      "The programme costs €120 and includes handwraps and a whitecollarboxing.org T shirt.",
-      "To book contact Cathal on +353 87 8526323 or email info@whitecollarboxing.org. or check us out on Facebook: www.facebook.com/whitecollarboxing."
+      "The programme costs €120 and includes handwraps and a whitecollarboxing.net T shirt.",
+      "To book contact Cathal on +353 87 8526323 or email info@whitecollarboxing.net. or check us out on Facebook: www.facebook.com/whitecollarboxing."
     ],
     "image": null,
     "blocks": [
@@ -7484,7 +7484,7 @@ export const posts: Post[] = [
       },
       {
         "t": "p",
-        "v": "To book contact Cathal on +353 87 8526323 or email info@whitecollarboxing.org. or check us out on Facebook: www.facebook.com/whitecollarboxing."
+        "v": "To book contact Cathal on +353 87 8526323 or email info@whitecollarboxing.net. or check us out on Facebook: www.facebook.com/whitecollarboxing."
       },
       {
         "t": "p",
@@ -7500,11 +7500,11 @@ export const posts: Post[] = [
       },
       {
         "t": "p",
-        "v": "The programme costs €120 and includes handwraps and a whitecollarboxing.org T shirt."
+        "v": "The programme costs €120 and includes handwraps and a whitecollarboxing.net T shirt."
       },
       {
         "t": "p",
-        "v": "To book contact Cathal on +353 87 8526323 or email info@whitecollarboxing.org. or check us out on Facebook: www.facebook.com/whitecollarboxing."
+        "v": "To book contact Cathal on +353 87 8526323 or email info@whitecollarboxing.net. or check us out on Facebook: www.facebook.com/whitecollarboxing."
       }
     ],
     "postedIn": [
@@ -7769,7 +7769,7 @@ export const posts: Post[] = [
     "excerpt": "Our next 8 week \"Million Dollar Baby\" beginners boxing course starts on Monday the 20th of September at the National Boxing Stadium on the South Circular Road in Dublin. The course costs €160 and includes gloves with twice weekly training sessions on Mondays and Wednesdays from 8pm. For further details or to book your place […]",
     "paragraphs": [
       "Our next 8 week \"Million Dollar Baby\" beginners boxing course starts on Monday the 20th of September at the National Boxing Stadium on the South Circular Road in Dublin. The course costs €160 and includes gloves with twice weekly training sessions on Mondays and Wednesdays from 8pm.",
-      "For further details or to book your place contact us on: info@whitecollarboxing.org or call us on +353 87 8526323."
+      "For further details or to book your place contact us on: info@whitecollarboxing.net or call us on +353 87 8526323."
     ],
     "image": null,
     "blocks": [
@@ -7779,7 +7779,7 @@ export const posts: Post[] = [
       },
       {
         "t": "p",
-        "v": "For further details or to book your place contact us on: info@whitecollarboxing.org or call us on +353 87 8526323."
+        "v": "For further details or to book your place contact us on: info@whitecollarboxing.net or call us on +353 87 8526323."
       }
     ],
     "postedIn": [
@@ -7805,7 +7805,7 @@ export const posts: Post[] = [
     "paragraphs": [
       "White Collar Boxing training re starts on Wednesday 15th September in the National Boxing Stadium on the South Circular Road in Dublin ahead of a White Collar Fight Night at The Academy in November. The course costs €300 and there will be discounts for groups of 2 or more, Training will be twice weekly on Mondays and Wednesdays at 7pm for 10 weeks.",
       "For more details or to book your place you can contact us at:",
-      "info@whitecollarboxing.org or +353 87 8526323."
+      "info@whitecollarboxing.net or +353 87 8526323."
     ],
     "image": null,
     "blocks": [
@@ -7819,7 +7819,7 @@ export const posts: Post[] = [
       },
       {
         "t": "p",
-        "v": "info@whitecollarboxing.org or +353 87 8526323."
+        "v": "info@whitecollarboxing.net or +353 87 8526323."
       }
     ],
     "postedIn": [
@@ -7830,7 +7830,7 @@ export const posts: Post[] = [
     ],
     "prev": {
       "slug": "whitecollarboxing-ie-packs-a-punch-on-bbc",
-      "title": "whitecollarboxing.org packs a punch on bbc"
+      "title": "whitecollarboxing.net packs a punch on bbc"
     },
     "next": {
       "slug": "million-dollar-baby",
@@ -7839,7 +7839,7 @@ export const posts: Post[] = [
   },
   {
     "slug": "whitecollarboxing-ie-packs-a-punch-on-bbc",
-    "title": "whitecollarboxing.org packs a punch on bbc",
+    "title": "whitecollarboxing.net packs a punch on bbc",
     "date": "April 14, 2010",
     "excerpt": "Watch part 1 of NI Fight Club on BBC ONE Northern Ireland from 22:45 on Monday, April 19 NI Fight Club is a new three part series from BBC Northern Ireland which follows a group of individuals from the Northern Ireland Business community as they take part in Belfasts first ever White Collar Boxing tournament, […]",
     "paragraphs": [
@@ -7924,7 +7924,7 @@ export const posts: Post[] = [
     },
     "next": {
       "slug": "whitecollarboxing-ie-packs-a-punch-on-bbc",
-      "title": "whitecollarboxing.org packs a punch on bbc"
+      "title": "whitecollarboxing.net packs a punch on bbc"
     }
   },
   {
@@ -7936,7 +7936,7 @@ export const posts: Post[] = [
       "Our next Million Dollar Baby fitness programme kicks off at The National Stadium Gym on the South Circular Road in Dublin 8 on Monday, March 22nd.",
       "The unique ladies only programme comprises of 8 weeks training that will have you boxing clever and feeling fantastic.",
       "Training sessions will be twice weekly Mondays and Wednesdays at 8.00pm.",
-      "The programme costs €180, for further information call Cathal on +353 87 8526323 or email: info@whitecollarboxing.org."
+      "The programme costs €180, for further information call Cathal on +353 87 8526323 or email: info@whitecollarboxing.net."
     ],
     "image": null,
     "blocks": [
@@ -7954,7 +7954,7 @@ export const posts: Post[] = [
       },
       {
         "t": "p",
-        "v": "The programme costs €180, for further information call Cathal on +353 87 8526323 or email: info@whitecollarboxing.org."
+        "v": "The programme costs €180, for further information call Cathal on +353 87 8526323 or email: info@whitecollarboxing.net."
       }
     ],
     "postedIn": [
@@ -7981,7 +7981,7 @@ export const posts: Post[] = [
       "Its a New Year and and a new decade. Youre probably fed up off all those failed diets and fitness regime that you havent been able to stick to as part of your New Years resolutions so why not make a fresh start with White Collar Boxing?",
       "Our new program for 2010 is just about to kick off with weekly training sessions at the National Stadium on the South Circular road in Dublin.",
       "After two months training from our Olympic coaches you will be fighting fit and may even feel brave enough to step into the ring for a White Collar Fight Night and give yourself the ultimate adrenalin rush!",
-      "For further information contact Cathal on 087 8526323 or email info@whitecollarboxing.org."
+      "For further information contact Cathal on 087 8526323 or email info@whitecollarboxing.net."
     ],
     "image": null,
     "blocks": [
@@ -7999,7 +7999,7 @@ export const posts: Post[] = [
       },
       {
         "t": "p",
-        "v": "For further information contact Cathal on 087 8526323 or email info@whitecollarboxing.org."
+        "v": "For further information contact Cathal on 087 8526323 or email info@whitecollarboxing.net."
       }
     ],
     "postedIn": [
@@ -8038,7 +8038,7 @@ export const posts: Post[] = [
       },
       {
         "t": "img",
-        "src": "http://whitecollarboxing.org/ksi9:-7ney_-/../_img/13.jpg",
+        "src": "http://whitecollarboxing.net/ksi9:-7ney_-/../_img/13.jpg",
         "alt": "million dollar baby"
       }
     ],

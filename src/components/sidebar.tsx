@@ -54,7 +54,7 @@ export function Sidebar() {
           <span className="flex items-center justify-center px-6 py-6">
             <Image
               src="/images/wcb-logo.png"
-              alt="whitecollarboxing.org"
+              alt="whitecollarboxing.net"
               width={200}
               height={79}
               unoptimized

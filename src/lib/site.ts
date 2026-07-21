@@ -1,8 +1,8 @@
 export const site = {
   name: "White Collar Boxing",
   tagline: "Fundraising & Events Boxing & Fitness Gym",
-  domain: "whitecollarboxing.org",
-  url: "https://whitecollarboxing.org",
+  domain: "whitecollarboxing.net",
+  url: "https://whitecollarboxing.net",
   foundedYear: 2005,
   address: {
     line1: "Unit 2b, Greenmount Industrial Estate",
@@ -12,7 +12,7 @@ export const site = {
     { label: "RoI", number: "087 852 6323", href: "tel:+353878526323" },
     { label: "NI", number: "0755 4323902", href: "tel:+447554323902" },
   ],
-  email: "info@whitecollarboxing.org",
+  email: "info@whitecollarboxing.net",
   social: {
     youtube: "https://www.youtube.com/user/whitecollarbox",
     twitter: "https://twitter.com/whitecollar_ie",

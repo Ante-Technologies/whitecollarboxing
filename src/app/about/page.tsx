@@ -4,7 +4,7 @@ import { PageWrap } from "@/components/page-wrap";
 export const metadata: Metadata = {
   title: "About white collar boxing",
   description:
-    "WhiteCollarBoxing.org was formed in 2005 by former Irish Olympian and Professional boxer, Cathal O' Grady, to bring the benefits of boxing to a new audience.",
+    "WhiteCollarBoxing.net was formed in 2005 by former Irish Olympian and Professional boxer, Cathal O' Grady, to bring the benefits of boxing to a new audience.",
   alternates: { canonical: "/about" },
 };
 
@@ -17,7 +17,7 @@ export default function AboutPage() {
     >
       <div className="space-y-6 text-base leading-relaxed text-foreground">
         <p>
-          WhiteCollarBoxing.org was formed in 2005. It was the brainchild of
+          WhiteCollarBoxing.net was formed in 2005. It was the brainchild of
           former Irish Olympian and Professional boxer, <strong>Cathal O&apos;
           Grady</strong>, whose mission was to bring the benefits of boxing to a
           previously neglected audience. The result has been a phenomenon, with
@@ -40,10 +40,10 @@ export default function AboutPage() {
         </p>
         <p>
           In 2005 Cathal introduced White Collar Boxing to Ireland, founding
-          Whitecollarboxing.org. It has become a very popular &amp; profitable
+          Whitecollarboxing.net. It has become a very popular &amp; profitable
           fundraiser for many organisations throughout Ireland, many of whom
           return year after year to run further events. In 2009,
-          whitecollarboxing.org featured in a three part TV documentary with BBC
+          whitecollarboxing.net featured in a three part TV documentary with BBC
           &quot;Fight Club&quot;.
         </p>
       </div>
